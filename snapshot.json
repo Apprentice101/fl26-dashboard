@@ -1,0 +1,913 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-12",
+  "updatedAt": "2026-06-12T12:00:00Z",
+  "exportedAt": "2026-06-12T19:05:04.215Z",
+  "districtCode": "26",
+  "data": {
+    "DISTRICT": {
+      "id": "fl-26",
+      "districtNumber": "26",
+      "districtName": "Florida's 26th Congressional District",
+      "state": "Florida",
+      "counties": [
+        "Miami-Dade (northwest: Hialeah, Doral, Miami Lakes, Medley)",
+        "Broward (southwest: Pembroke Pines west, Miramar west, Cooper City, Davie, SW Ranches)"
+      ],
+      "majorPlaces": [
+        "Hialeah",
+        "Doral",
+        "Miami Lakes",
+        "Pembroke Pines (west)",
+        "Cooper City",
+        "Davie"
+      ],
+      "cycleYear": 2026,
+      "population": 780000,
+      "registeredVoters": 320000,
+      "partyRegistration": [
+        {
+          "label": "Republican",
+          "count": 136000,
+          "pct": 42.5
+        },
+        {
+          "label": "Democratic",
+          "count": 108000,
+          "pct": 33.8
+        },
+        {
+          "label": "No Party Affiliation",
+          "count": 68000,
+          "pct": 21.3
+        },
+        {
+          "label": "Other",
+          "count": 8000,
+          "pct": 2.4
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — FL-26",
+        "winner": {
+          "name": "Mario Díaz-Balart (R)",
+          "pct": 64,
+          "votes": 148000
+        },
+        "runnerUp": {
+          "name": "Democratic candidate (R+16 prior map)",
+          "pct": 36,
+          "votes": 83000
+        },
+        "turnoutPct": 52
+      }
+    },
+    "SOURCES": {
+      "src-fl-dos-elections": {
+        "id": "src-fl-dos-elections",
+        "name": "Florida Division of Elections (Florida Department of State)",
+        "short": "FL DOS Elections",
+        "url": "https://dos.fl.gov/elections/",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high"
+      },
+      "src-fl-dos-register": {
+        "id": "src-fl-dos-register",
+        "name": "Florida Voter Registration — Florida Department of State",
+        "short": "FL Voter Registration",
+        "url": "https://registertovoteflorida.gov",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high"
+      },
+      "src-fl-dos-results": {
+        "id": "src-fl-dos-results",
+        "name": "Florida Division of Elections — Election Results",
+        "short": "FL DOS Results",
+        "url": "https://results.elections.myflorida.com",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high"
+      },
+      "src-fl-elec-code": {
+        "id": "src-fl-elec-code",
+        "name": "Florida Election Code — Title IX, Florida Statutes",
+        "short": "FL Election Code",
+        "url": "https://www.flsenate.gov/Laws/Statutes/2025/Chapter97",
+        "publisher": "Florida Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high",
+        "notes": "Florida Statutes Title IX (Chapters 97–106) govern elections. SB 90 (2021) and HB 991 (2026) amendments cited in rules."
+      },
+      "src-miamidade-soe": {
+        "id": "src-miamidade-soe",
+        "name": "Miami-Dade County Supervisor of Elections (votemiamidade.gov)",
+        "short": "Miami-Dade SOE",
+        "url": "https://www.votemiamidade.gov",
+        "publisher": "Miami-Dade County Supervisor of Elections — Alina Garcia",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high",
+        "notes": "Redesigned site launched May 21, 2026 (votemiamidade.gov). Primary SOE for the largest portion of FL-26 electorate (Hialeah, Doral, Miami Lakes, Miami Springs)."
+      },
+      "src-broward-soe": {
+        "id": "src-broward-soe",
+        "name": "Broward County Supervisor of Elections (browardsoe.org)",
+        "short": "Broward SOE",
+        "url": "https://www.browardsoe.org",
+        "publisher": "Broward County Supervisor of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high",
+        "notes": "Southwest Broward communities (Pembroke Pines west of Palm Ave, Miramar west, Cooper City, Davie, Southwest Ranches) added to FL-26 under 2026 HB 1-D map."
+      },
+      "src-collier-soe": {
+        "id": "src-collier-soe",
+        "name": "Collier County Supervisor of Elections (colliervotes.gov)",
+        "short": "Collier SOE",
+        "url": "https://www.colliervotes.gov",
+        "publisher": "Collier County Supervisor of Elections — Melissa Blazier",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high",
+        "notes": "Collier County was previously part of FL-26 (pre-2026 HB 1-D map). ~173,000 Collier voters mailed new Voter Info Cards June 11, 2026 reflecting their new district assignment."
+      },
+      "src-ballotpedia-fl26": {
+        "id": "src-ballotpedia-fl26",
+        "name": "Ballotpedia — Florida's 26th Congressional District election, 2026",
+        "short": "Ballotpedia FL-26",
+        "url": "https://ballotpedia.org/Florida%27s_26th_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high"
+      },
+      "src-fl-senate-hb1d": {
+        "id": "src-fl-senate-hb1d",
+        "name": "Florida Legislature — HB 1-D (2026 Congressional Redistricting)",
+        "short": "FL HB 1-D",
+        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
+        "publisher": "Florida Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high",
+        "notes": "Mid-decade redistricting signed by Gov. DeSantis May 4, 2026. FL Supreme Court denied preliminary injunction 6-1 on June 10, 2026; merits trial ongoing."
+      },
+      "src-democracy-docket-fl26": {
+        "id": "src-democracy-docket-fl26",
+        "name": "Democracy Docket — Florida 2026 Redistricting Challenge",
+        "short": "Democracy Docket FL",
+        "url": "https://www.democracydocket.com/cases/florida-2026-redistricting-challenge/",
+        "publisher": "Democracy Docket",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high",
+        "notes": "Tracks ongoing Fair Districts Amendment litigation challenging HB 1-D. FL Supreme Court June 10 ruling covered here."
+      },
+      "src-wlrn": {
+        "id": "src-wlrn",
+        "name": "WLRN — South Florida Public Radio (NPR)",
+        "short": "WLRN",
+        "url": "https://www.wlrn.org/",
+        "publisher": "WLRN Public Media",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high"
+      },
+      "src-wgcu": {
+        "id": "src-wgcu",
+        "name": "WGCU — Southwest Florida Public Radio (NPR)",
+        "short": "WGCU",
+        "url": "https://www.wgcu.org/",
+        "publisher": "WGCU Public Media",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high"
+      },
+      "src-miami-herald": {
+        "id": "src-miami-herald",
+        "name": "Miami Herald — South Florida elections coverage",
+        "short": "Miami Herald",
+        "url": "https://www.miamiherald.com/",
+        "publisher": "Miami Herald",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high"
+      },
+      "src-abc-news": {
+        "id": "src-abc-news",
+        "name": "ABC News — Florida redistricting coverage",
+        "short": "ABC News",
+        "url": "https://abcnews.go.com/",
+        "publisher": "ABC News",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-12",
+        "lastVerified": "2026-06-12",
+        "confidence": "high"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-fl26-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-07-20",
+        "significance": "Last day to register or update party affiliation for the August 18, 2026 Florida primary. Florida has closed primaries: voters must be registered with a party (Republican or Democrat) by this date to vote in that party's primary. Registration available online at registertovoteflorida.gov or at SOE offices.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-dos-register",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-primary-vbm-request-deadline",
+        "milestone": "Vote-by-mail request deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-06",
+        "significance": "Last day to request a vote-by-mail ballot for the August 18 primary (10 days before election day). Under SB 90 (2021), vote-by-mail requests expire after each general election — voters who previously had standing requests must renew for the 2026 cycle. Request via each county SOE portal.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-primary-early-start",
+        "milestone": "In-person early voting begins — primary (mandatory minimum)",
+        "electionType": "primary",
+        "date": "2026-08-08",
+        "significance": "Florida law requires early voting to begin no later than the 10th day before a primary election. Counties may begin earlier and offer additional days. Miami-Dade and Broward typically offer 14 days. Check votemiamidade.gov or browardsoe.org for precinct-specific early voting sites.",
+        "governingAuthority": "Miami-Dade SOE, Broward SOE",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-primary-early-end",
+        "milestone": "In-person early voting ends — primary",
+        "electionType": "primary",
+        "date": "2026-08-15",
+        "significance": "Early voting must continue through the 3rd day before the primary (August 15). Drop boxes are only available at the Supervisor of Elections main office during the early voting period, per SB 90 (2021).",
+        "governingAuthority": "Miami-Dade SOE, Broward SOE",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-primary-day",
+        "milestone": "Primary election day",
+        "electionType": "primary",
+        "date": "2026-08-18",
+        "significance": "Florida closed primary. FL-26: Mario Díaz-Balart (R, incumbent) running; reportedly unopposed in Republican primary as of qualifying close June 12, 2026. Democratic primary: Yurina Gil vs. Nicole Locklin. Polls open 7 AM – 7 PM local time. New 2026 HB 1-D district boundaries apply.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-miamidade-soe",
+          "src-broward-soe",
+          "src-ballotpedia-fl26"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-primary-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-18",
+        "significance": "Vote-by-mail ballots must be received by the Supervisor of Elections by 7 PM on Election Day (August 18). Unlike some states, Florida does not count ballots that arrive after polls close, even if postmarked on time.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-primary-canvass-deadline",
+        "milestone": "County canvass certification deadline — primary",
+        "electionType": "primary",
+        "date": "2026-09-01",
+        "significance": "County Supervisors of Elections must complete the official canvass and certify results to the Florida Department of State within 14 days of the primary (approximately September 1, 2026). Florida has a short canvass window compared to most states.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-05",
+        "significance": "Last day to register or update registration for the November 3, 2026 general election (29 days before election day under Florida law). Registration available online at registertovoteflorida.gov. Florida does not have same-day registration.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-register",
+          "src-fl-dos-elections",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-general-vbm-request-deadline",
+        "milestone": "Vote-by-mail request deadline — general",
+        "electionType": "general",
+        "date": "2026-10-22",
+        "significance": "Last day to request a vote-by-mail ballot for the November 3 general election (10 days before election day). Under SB 90 (2021), requests expire and must be renewed each general election cycle — voters who had a standing request before 2022 must have renewed for 2026.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-general-early-start",
+        "milestone": "In-person early voting begins — general (mandatory minimum)",
+        "electionType": "general",
+        "date": "2026-10-24",
+        "significance": "Florida law requires early voting to begin no later than the 10th day before a general election (October 24). Miami-Dade and Broward SOEs typically start earlier and extend the window. Check votemiamidade.gov and browardsoe.org for updated schedules and site locations.",
+        "governingAuthority": "Miami-Dade SOE, Broward SOE",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-general-early-end",
+        "milestone": "In-person early voting ends — general",
+        "electionType": "general",
+        "date": "2026-10-31",
+        "significance": "Early voting must continue through the 3rd day before the general election (October 31). Drop boxes are restricted to the SOE main office during early voting hours, per SB 90 (2021). Voters in Hialeah, Doral, Miami Lakes, Pembroke Pines west, Cooper City, and Davie should check their county SOE for nearest site.",
+        "governingAuthority": "Miami-Dade SOE, Broward SOE",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. FL-26: Mario Díaz-Balart (R, incumbent) vs. Democratic nominee (Yurina Gil or Nicole Locklin, decided by August 18 primary). Polls open 7 AM – 7 PM local time. Photo ID required to vote in person.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-miamidade-soe",
+          "src-broward-soe",
+          "src-ballotpedia-fl26"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-general-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Vote-by-mail ballots must be received by the Supervisor of Elections by 7 PM on Election Day (November 3). Florida does not accept ballots arriving after polls close. Mail ballots must be returned to the SOE office or drop box — not a post office — by 7 PM.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-general-canvass-deadline",
+        "milestone": "County canvass certification deadline — general",
+        "electionType": "general",
+        "date": "2026-11-17",
+        "significance": "Florida county SOEs must certify and submit canvass results to the Secretary of State within 14 days of the general election (approximately November 17, 2026). Florida's canvass window is among the shortest in the nation.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl26-general-state-certification",
+        "milestone": "Secretary of State certification — general",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "The Florida Secretary of State (Division of Elections) certifies official statewide results approximately 3 weeks after Election Day, following completion of all county canvasses and any automatic recounts.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-fl-voter-id",
+        "topic": "Photo ID required to vote in person",
+        "currentRule": "Florida requires all voters to present a valid photo ID to vote in person at a polling place or early voting site. Acceptable IDs include Florida driver license or ID card, U.S. passport, military ID, student ID with photo, employee ID (government or private), voter ID card issued by the SOE, or any other government-issued photo ID. If a voter does not have acceptable ID, they may cast a provisional ballot.",
+        "status": "active",
+        "whyItMatters": "Every FL-26 voter voting in person at a Miami-Dade or Broward polling place or early voting site must bring a photo ID. Voters without ID are limited to a provisional ballot, which requires additional verification before counting.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "Florida Statutes § 101.043. Voters without ID may cast a provisional ballot and cure within 2 days by providing ID to their county SOE."
+      },
+      {
+        "id": "rule-fl-mail-ballot-request",
+        "topic": "Vote-by-mail request renewal required each cycle (SB 90)",
+        "currentRule": "Under SB 90 (2021), vote-by-mail ballot requests expire after each general election cycle. Voters who had a standing multi-election VBM request under the prior system must submit a new request for the 2026 cycle. Requests must be made by 10 days before the election (primary: August 6; general: October 22). Requests accepted online, by mail, in person, or by fax through the county SOE.",
+        "status": "active",
+        "whyItMatters": "A key change for FL-26 voters: many Miami-Dade and Broward voters who relied on auto-renewal of VBM requests may not realize their request expired. The Miami-Dade SOE's new votemiamidade.gov site (launched May 21, 2026) includes reminders about this requirement.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "Florida Statutes § 101.62, amended by SB 90 (2021). Request deadline: 10 days before election. Identity verification required with request."
+      },
+      {
+        "id": "rule-fl-drop-boxes-sb90",
+        "topic": "Ballot drop box restrictions (SB 90 — SOE main office only)",
+        "currentRule": "Under SB 90 (2021), official ballot drop boxes are only available at the Supervisor of Elections main office and only during early voting hours. Drop boxes at satellite offices, libraries, or other locations are not permitted. Voters must return mail ballots to the SOE main office drop box (during early voting hours) or directly to a polling place on Election Day.",
+        "status": "active",
+        "whyItMatters": "A significant restriction for FL-26 voters spread across Miami-Dade (Hialeah, Doral, Miami Lakes) and southwest Broward (Pembroke Pines, Cooper City, Davie). Previously available community drop boxes are no longer permitted. Voters relying on drop boxes must travel to the SOE main office.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "Florida Statutes § 101.69, amended by SB 90 (2021). Drop boxes only at SOE main office during early voting hours. Miami-Dade SOE: 2700 NW 87 Ave, Miami, FL 33172."
+      },
+      {
+        "id": "rule-fl-closed-primary",
+        "topic": "Closed primary — party registration required",
+        "currentRule": "Florida has a closed primary system for partisan races. Only registered Democrats may vote in the Democratic primary for FL-26 Congressional District; only registered Republicans may vote in the Republican primary. Voters registered as No Party Affiliation (NPA) or with a third party cannot vote in either major-party primary for partisan offices. Party changes must be made by the registration deadline (July 20, 2026 for the August 18 primary).",
+        "status": "active",
+        "whyItMatters": "The Democratic nominee for FL-26 will be decided exclusively by registered Democrats. NPA and third-party voters (a significant portion of Miami-Dade and Broward electorates) are excluded from the primary. Voters may change party registration by July 20, 2026.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-ballotpedia-fl26"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "Florida Statutes § 101.021. Closed primaries apply to all partisan offices including U.S. Congress."
+      },
+      {
+        "id": "rule-fl-registration-deadline",
+        "topic": "Voter registration deadline — 29 days before election",
+        "currentRule": "Florida requires voters to register at least 29 days before a federal election. Primary deadline: July 20, 2026. General election deadline: October 5, 2026. Florida does not have same-day voter registration. Registration available online at registertovoteflorida.gov, by mail (postmarked by deadline), or in person at the county SOE office.",
+        "status": "active",
+        "whyItMatters": "FL-26 voters who are not registered, or who need to update party affiliation to vote in the August 18 primary, must act by July 20, 2026. New residents of Broward communities (Pembroke Pines west, Cooper City, Davie) newly added to FL-26 under HB 1-D should verify their district assignment.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-register",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "Florida Statutes § 97.055. 29-day book closing applies to primary and general elections. No conditional or same-day registration available in Florida."
+      },
+      {
+        "id": "rule-fl-hb991-citizenship",
+        "topic": "HB 991 — Documentary proof of citizenship for new registrations (effective Jan 1, 2027)",
+        "currentRule": "Governor DeSantis signed HB 991 (Chapter 2026-26) on April 1, 2026, requiring new voter registrants to provide documentary proof of U.S. citizenship (passport, birth certificate, or DHSMV-verified driver license) to register to vote. The law takes effect January 1, 2027 — after the 2026 midterm election cycle. The 2026 primary and general elections are NOT affected; current registrations remain valid.",
+        "status": "watch",
+        "whyItMatters": "HB 991 does not affect 2026 elections but is under active federal litigation (League of Women Voters of Florida et al., filed April 1, 2026). Miami-Dade and Broward SOEs are named defendants. A court injunction before 2026 could affect implementation timing. FL-26 voters registering before January 1, 2027 are not subject to the new requirement.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-wlrn"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "HB 991, Chapter 2026-26 (signed April 1, 2026). Effective January 1, 2027. Litigation pending in federal court; Miami-Dade and Broward SOEs named defendants."
+      },
+      {
+        "id": "rule-fl-provisional-ballots",
+        "topic": "Provisional ballots",
+        "currentRule": "Florida voters who do not appear on the precinct rolls, who cannot produce acceptable photo ID, or whose VBM ballot status shows a ballot has been issued, must cast a provisional ballot at their assigned precinct. Provisional ballots are reviewed during the canvass period. Voters have 2 days after the election to provide missing information (e.g., ID) to have their provisional ballot counted.",
+        "status": "active",
+        "whyItMatters": "With new district boundaries under HB 1-D, some FL-26 voters — especially in southwest Broward communities newly added to the district — may find their precinct assignment has changed. Voting at the wrong precinct can result in a ballot not being counted for the congressional race.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "Florida Statutes § 101.048. 2-day cure window for ID-related provisional ballots. Voters should check their precinct assignment at votemiamidade.gov or browardsoe.org before Election Day."
+      },
+      {
+        "id": "rule-fl-vbm-return-options",
+        "topic": "Mail ballot return options",
+        "currentRule": "Voted mail ballots in Florida must be returned by: (1) USPS mail (must arrive by 7 PM Election Day, not postmark — late arrival not accepted); (2) in person to any early voting site in the voter's county during early voting hours; (3) to the SOE main office drop box during early voting hours; (4) to the voter's assigned polling place on Election Day. Voters may request a ballot replacement if they spoil their mail ballot.",
+        "status": "active",
+        "whyItMatters": "The Florida rule that ballots must arrive — not just be postmarked — by 7 PM on Election Day is stricter than most states. FL-26 voters mailing ballots should allow at least 5–7 days for USPS delivery. Returning the ballot to a drop box at the SOE main office is safer than mailing close to the deadline.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "Florida Statutes §§ 101.62, 101.65, 101.68. No postmark grace period. Ballot must be received by SOE or at a valid return location by 7 PM on Election Day."
+      },
+      {
+        "id": "rule-fl-early-voting-hours",
+        "topic": "Early voting — hours and locations",
+        "currentRule": "Florida law requires a minimum of 8 hours per day of early voting (7 AM – 7 PM is common) at each designated early voting site. Counties may add optional additional days and extended hours. Miami-Dade and Broward typically offer 14-day early voting windows and multiple sites. Early voting sites and hours are published by each SOE at least 30 days before the election.",
+        "status": "active",
+        "whyItMatters": "FL-26 voters in Hialeah, Doral, Pembroke Pines, and Cooper City should check their county SOE for the nearest early voting site; the nearest site may differ from their assigned Election Day polling place. Site lists must be posted 30 days before each election.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code",
+          "src-miamidade-soe",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "Florida Statutes § 101.657. Minimum 8 hrs/day. Counties may offer additional optional days per § 101.657(1)(b)."
+      },
+      {
+        "id": "rule-fl-ballot-cure",
+        "topic": "Mail ballot cure — no signature cure after submission",
+        "currentRule": "Unlike some states, Florida does not have a broad mail ballot signature cure process. Under Florida law, if a mail ballot envelope has a signature that does not match the voter's registration signature, the ballot may be rejected without a voter cure opportunity in the same manner as other states. Voters should verify their signature is current with their county SOE registration.",
+        "status": "active",
+        "whyItMatters": "FL-26 voters returning mail ballots should sign the envelope exactly as their name appears on their voter registration. Signature mismatches can result in ballot rejection without the right to cure that exists in states like California. Verify your registration signature is current at votemiamidade.gov or browardsoe.org.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "Florida Statutes § 101.68. Some cure opportunities may exist in limited circumstances under county practice; verify with Miami-Dade and Broward SOEs for 2026-specific guidance."
+      },
+      {
+        "id": "rule-fl-redistricting-hb1d",
+        "topic": "New district boundaries under HB 1-D (effective 2026 elections)",
+        "currentRule": "Florida's mid-decade redistricting (HB 1-D, signed May 4, 2026) reassigned district boundaries effective for the August 18, 2026 primary. FL-26 under HB 1-D covers: Miami-Dade County (northwest: Hialeah, Doral, Hialeah Gardens, Medley, Miami Lakes, Miami Springs, Virginia Gardens) + southwest Broward County (parts of Pembroke Pines, Miramar, Cooper City, Davie, Southwest Ranches). Collier County is no longer in FL-26. The Florida Supreme Court denied a preliminary injunction 6-1 on June 10, 2026; merits litigation is ongoing.",
+        "status": "watch",
+        "whyItMatters": "Voters in Collier County who were in FL-26 under the prior map are now assigned to a different district. Voters newly added from southwest Broward must check their updated precinct assignment via browardsoe.org. If a court enjoins the new map after the primary but before the general, district assignments could change again.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-senate-hb1d",
+          "src-fl-dos-elections",
+          "src-democracy-docket-fl26",
+          "src-wgcu"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-12",
+        "needsReview": true,
+        "detail": "HB 1-D signed May 4, 2026 by Gov. DeSantis. FL Supreme Court 6-1 ruling June 10, 2026 denied injunction. Qualifying period (June 8–12, 2026) proceeded under new boundaries. Merits trial pending."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-fl-dos-elections",
+        "label": "Florida Division of Elections — Official elections portal",
+        "url": "https://dos.fl.gov/elections/",
+        "description": "Official Florida elections hub: voter registration, election calendar, results, county resources, and voting rules. Authoritative source for FL-26 election deadlines, qualifying information, and HB 991/SB 90 guidance.",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-elections",
+        "lastVerified": "2026-06-12"
+      },
+      {
+        "id": "res-fl-dos-register",
+        "label": "registertovoteflorida.gov — Florida online voter registration",
+        "url": "https://registertovoteflorida.gov",
+        "description": "Register to vote, update your address, or change your party affiliation online. Primary registration deadline: July 20, 2026. General election deadline: October 5, 2026. Florida does not have same-day registration.",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-register",
+        "lastVerified": "2026-06-12"
+      },
+      {
+        "id": "res-miamidade-soe",
+        "label": "votemiamidade.gov — Miami-Dade County Supervisor of Elections",
+        "url": "https://www.votemiamidade.gov",
+        "description": "Primary voter resource for FL-26's Miami-Dade constituents (Hialeah, Doral, Miami Lakes, Miami Springs, Medley). Redesigned site launched May 21, 2026. Includes VBM request renewal reminders, precinct finder, early voting locations, and voter registration tools. SOE: Alina Garcia. Phone: (305) 499-8683.",
+        "governingAuthority": "Miami-Dade County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-miamidade-soe",
+        "lastVerified": "2026-06-12"
+      },
+      {
+        "id": "res-broward-soe",
+        "label": "browardsoe.org — Broward County Supervisor of Elections",
+        "url": "https://www.browardsoe.org",
+        "description": "Official elections site for Broward County voters. Southwest Broward communities now in FL-26 under 2026 HB 1-D map (Pembroke Pines west, Miramar west, Cooper City, Davie, Southwest Ranches). Check updated precinct assignments before the August 18 primary.",
+        "governingAuthority": "Broward County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-broward-soe",
+        "lastVerified": "2026-06-12"
+      },
+      {
+        "id": "res-collier-soe",
+        "label": "colliervotes.gov — Collier County Supervisor of Elections",
+        "url": "https://www.colliervotes.gov",
+        "description": "Official elections site for Collier County. Collier County was part of FL-26 under prior maps; under 2026 HB 1-D, Collier is assigned to a different district. ~173,000 Collier voters received new Voter Information Cards in June 2026 reflecting the change.",
+        "governingAuthority": "Collier County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-collier-soe",
+        "lastVerified": "2026-06-12"
+      },
+      {
+        "id": "res-fl-dos-results",
+        "label": "Florida Division of Elections — Election Results",
+        "url": "https://results.elections.myflorida.com",
+        "description": "Official Florida election results portal. FL-26 primary results (August 18, 2026) and general election results (November 3, 2026) will be posted here during and after canvass.",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-results",
+        "lastVerified": "2026-06-12"
+      },
+      {
+        "id": "res-ballotpedia-fl26",
+        "label": "Ballotpedia — FL-26 2026 election",
+        "url": "https://ballotpedia.org/Florida%27s_26th_Congressional_District_election,_2026",
+        "description": "Nonpartisan reference page for FL-26's 2026 election: candidate profiles (Díaz-Balart, Gil, Locklin), race ratings, campaign finance summary, and redistricting notes.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-fl26",
+        "lastVerified": "2026-06-12"
+      },
+      {
+        "id": "res-fl-senate-hb1d",
+        "label": "Florida Legislature — HB 1-D redistricting bill",
+        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
+        "description": "Full text of Florida's 2026 mid-decade congressional redistricting bill (HB 1-D), signed May 4, 2026. Includes the new FL-26 district boundaries dropping Collier and adding southwest Broward.",
+        "governingAuthority": "Florida Legislature",
+        "sourceType": "statutory",
+        "sourceId": "src-fl-senate-hb1d",
+        "lastVerified": "2026-06-12"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-fl26-001",
+        "title": "FL-26 dashboard initialized — 14 sources, 15 events, 11 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 12, 2026. All 14 sources (FL DOS, Miami-Dade SOE, Broward SOE, Collier SOE, FL Election Code, HB 1-D, Ballotpedia, Democracy Docket, WLRN, WGCU, Miami Herald, ABC News) verified reachable. 15 election events (primary + general) and 11 voting rules researched from FL DOS and FL Statutes, including SB 90 restrictions and HB 991 citizenship requirement. All events and rules marked needsReview/unconfirmed pending county-specific 2026 calendar confirmation from Miami-Dade and Broward SOEs.",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-miamidade-soe",
+          "src-broward-soe",
+          "src-fl-elec-code"
+        ],
+        "detectedAt": "2026-06-12T12:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-fl26-002",
+        "title": "FL-26 primary candidates confirmed — Díaz-Balart (R) + Gil/Locklin (D) in August 18 primary",
+        "fieldChanged": "Primary candidates",
+        "oldValue": "Qualifying period open June 8–12, 2026",
+        "newValue": "Mario Díaz-Balart (R, incumbent since 2003) reportedly running unopposed in Republican primary as of qualifying close June 12, 2026. Democratic primary: Yurina Gil vs. Nicole Locklin. General election (Nov 3): Díaz-Balart vs. Democratic nominee. Seat rated Solid R (Cook Political Report; slightly reduced from R+16 to approx. R+9–R+10 under new HB 1-D boundaries). FL Supreme Court denied injunction June 10, 2026 allowing HB 1-D map for both primaries.",
+        "sourceIds": [
+          "src-ballotpedia-fl26",
+          "src-fl-dos-elections",
+          "src-fl-senate-hb1d"
+        ],
+        "detectedAt": "2026-06-12T12:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-fl26-003",
+        "title": "All rules and event dates flagged for SOE verification before publish",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "11 voting rules and 15 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-06-12). Priority items: (1) confirm exact Miami-Dade and Broward early voting windows for Aug 18 primary and Nov 3 general; (2) confirm HB 991 litigation status does not affect 2026 registration; (3) verify drop box location addresses for Miami-Dade and Broward SOE main offices; (4) confirm HB 1-D merits trial does not issue injunction before Aug 18 primary.",
+        "sourceIds": [
+          "src-fl-elec-code",
+          "src-fl-dos-elections",
+          "src-miamidade-soe",
+          "src-broward-soe"
+        ],
+        "detectedAt": "2026-06-12T12:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-fl26-001",
+        "factInQuestion": "Whether Florida's HB 1-D mid-decade congressional redistricting violates the Florida Fair Districts Amendment (Art. III, §20) and must be enjoined before or after the 2026 elections",
+        "sourceAId": "src-fl-senate-hb1d",
+        "sourceAClaim": "Florida Governor DeSantis and Republican legislative leaders: HB 1-D is constitutional — drawn on race-neutral grounds in response to the U.S. Supreme Court's Callais ruling; the Florida Supreme Court denied a preliminary injunction 6-1 on June 10, 2026, allowing the map to be used in the August 18, 2026 primary and November 3, 2026 general election. Qualifying proceeded under new boundaries June 8–12, 2026.",
+        "sourceBId": "src-democracy-docket-fl26",
+        "sourceBClaim": "Democracy Docket plaintiffs (Common Cause, Equal Ground, voting rights groups): The map was drawn with admitted use of partisan data to favor Republicans — explicitly violating Florida's constitutional Fair Districts Amendment ban on partisan gerrymandering. Map drafter admitted partisan data use on record. The June 10 Florida Supreme Court ruling addressed only the preliminary injunction standard, not the map's constitutionality on the merits. A full trial on the merits has not yet been held and could result in the map being overturned before or after future elections.",
+        "whyItMatters": "For FL-26, HB 1-D drops all of Collier County (previously a core part of the district) and adds southwest Broward communities, changing the competitive dynamics of the seat. Approximately 173,000 Collier County voters received new voter information cards reflecting the district change (WGCU, June 11, 2026). If a court later enjoins or overturns the new map, FL-26's boundaries could revert — creating potential double-assignment uncertainty for voters in Collier (which received Voter Info Cards saying they left FL-26) and southwest Broward (newly added). Supervisors of Elections in Miami-Dade, Broward, and Collier counties would face significant administrative disruption.",
+        "suggestedReviewAction": "Monitor Democracy Docket and Florida Supreme Court dockets for any injunction order or trial date. If a merits ruling is issued before November 3, 2026, update the district boundaries, affected county SOE sources, and all events referencing current HB 1-D boundaries. If Collier County is reinstated to FL-26, add Collier SOE back as a primary SOE source. Flag this conflict as 'high' severity if any court schedules a merits trial before the general election.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-12T12:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-fl26-001",
+        "headline": "Collier Supervisor of Elections mailing new voter info cards to voters affected by redistricting",
+        "sourceName": "WGCU Public Media (Southwest Florida NPR station)",
+        "url": "https://www.wgcu.org/elections/2026-06-11/collier-supervisor-of-elections-mailing-new-voter-info-cards-to-voters-affected-by-redistricting",
+        "publishedAt": "2026-06-11",
+        "relevanceSummary": "Approximately 173,000 Collier County voters are receiving new Voter Information Cards reflecting changes to their U.S. Congressional District assignment under the new map passed by the Florida Legislature in April 2026. Collier County, previously part of FL-26 (Díaz-Balart's district), is now assigned to a different congressional district under the HB 1-D map signed by Governor DeSantis on May 4, 2026. Voters need updated cards to know their new district, polling location, and which congressional race will appear on their August 18 primary and November 3 general election ballots.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-002",
+        "headline": "Florida Supreme Court allows state Republicans to use new congressional map for 2026 midterm elections",
+        "sourceName": "KSAT / Associated Press",
+        "url": "https://www.ksat.com/news/politics/2026/06/10/florida-court-allows-use-of-new-us-house-districts-drawn-by-republicans-for-midterm-elections/",
+        "publishedAt": "2026-06-10",
+        "relevanceSummary": "The Florida Supreme Court, in a 6-1 decision, denied a request for a temporary injunction against the new congressional map (HB 1-D), allowing it to be used in the August 18 primary and November 3 general election. The ruling came just before the June 12 candidate qualifying deadline for U.S. House races, providing procedural certainty that FL-26 (and all districts) will operate under the new boundaries. The court declined to rule on the merits of the partisan gerrymandering claims, which continue in lower-court proceedings and could theoretically affect future elections.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-003",
+        "headline": "Qualifying opens for State, U.S. House contests — redistricting delayed qualifying to June 8–12",
+        "sourceName": "WLRN (South Florida NPR station)",
+        "url": "https://www.wlrn.org/2026-06-10/qualifying-opens-for-state-u-s-house-contests",
+        "publishedAt": "2026-06-10",
+        "relevanceSummary": "Florida's qualifying period for U.S. House of Representatives seats opened June 8, 2026 and ran through noon June 12, 2026 — the same window as state offices, after Secretary of State Cord Byrd moved the originally scheduled congressional qualifying period to align with the redistricting special session. Several Republican incumbents qualified on June 8; candidates for FL-26 (Díaz-Balart's seat) must file during this window. This is a key voter-resource date because it establishes the final candidate field for the August 18 primary.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-004",
+        "headline": "DeSantis signs bill requiring proof of citizenship to register to vote — voting rights groups sue",
+        "sourceName": "WLRN (South Florida NPR station)",
+        "url": "https://www.wlrn.org/light/government-politics/2026-04-01/desantis-signs-bill-requiring-proof-of-citizenship-to-register-to-vote-voting-rights-group-sue",
+        "publishedAt": "2026-04-01",
+        "relevanceSummary": "Governor DeSantis signed HB 991 (Chapter 2026-26) on April 1, 2026, requiring new voter registrants in Florida to provide documentary proof of U.S. citizenship (passport, birth certificate, or DHSMV-verified license). The law takes effect January 1, 2027, so it does not change the registration process for the August 18 primary or November 3 general election this cycle. Immediately after signing, a coalition including the League of Women Voters of Florida, Florida Rising Together, Florida Immigrant Coalition, and Common Cause filed a federal lawsuit alleging constitutional violations; the Miami-Dade and Broward Supervisors of Elections are named defendants.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-005",
+        "headline": "Miami-Dade Supervisor of Elections launches new website ahead of 2026 election cycle",
+        "sourceName": "Miami-Dade County Supervisor of Elections (official press release)",
+        "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1778790474695900",
+        "publishedAt": "2026-05-21",
+        "relevanceSummary": "Supervisor Alina Garcia announced the launch of a redesigned, mobile-accessible website at votemiamidade.gov, providing voters in Miami-Dade County (the core of FL-26) with improved access to voter registration tools, election dates, vote-by-mail request forms, and precinct finders ahead of the August 18 primary and November 3 general election. The new site includes reminders that vote-by-mail ballot requests expire after each general election and must be renewed — a requirement instituted under SB 90 (2021) limiting requests to one election cycle at a time. This is the primary voter-resource portal for the largest portion of FL-26's electorate.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-006",
+        "headline": "Florida legislature passes new congressional map that could give Republicans 4 more seats",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/florida-legislature-approves-new-congressional-map/story?id=132508964",
+        "publishedAt": "2026-04-29",
+        "relevanceSummary": "The Florida House (83-28) and Senate (21-17) passed HB 1-D — a mid-decade redrawing of all 28 congressional districts — on April 29, 2026, which Governor DeSantis signed May 4. For FL-26 (Díaz-Balart's seat), the new map drops all of Collier County and adds parts of southwest Broward County (Pembroke Pines, Miramar, Cooper City, Davie, Southwest Ranches), reducing the Trump margin from approximately 35 points to 18 points and shifting which supervisors of elections administer the seat. Democrats condemned the map as an unconstitutional partisan gerrymander under Florida's Fair Districts Amendment; legal challenges are ongoing.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-12-fl-26-initial",
+      "startedAt": "2026-06-12T11:00:00Z",
+      "completedAt": "2026-06-12T12:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 14,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Initial build June 12, 2026. All 14 sources verified. FL-26 primary (August 18) and general (November 3) timelines researched from FL DOS, FL Election Code (SB 90, HB 991, HB 1-D), and county SOE sources. Qualifying closed June 12 under HB 1-D map: Díaz-Balart (R, reportedly unopposed), Gil and Locklin (D primary). Florida Supreme Court 6-1 ruling June 10 allows HB 1-D for 2026 elections; merits litigation ongoing. All 15 events and 11 rules marked needsReview/unconfirmed pending county-specific 2026 deadline confirmation from Miami-Dade and Broward SOEs."
+    },
+    "NEXT_REFRESH_AT": "2026-06-19T12:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-fl26-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 14,
+      "newUpdates": 0,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 15,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 8–14, 2026. FL-26 dashboard created for Mario Díaz-Balart's seat (FL-26 post-2022 renumbering, confirmed under 2026 HB 1-D). Florida closed primary August 18; general November 3. Qualifying closed June 12: Díaz-Balart (R, reportedly unopposed), Gil + Locklin (D primary). Key Florida-specific rules: closed primary (party reg by July 20), photo ID required, SB 90 drop box restrictions (SOE main office only), SB 90 VBM request renewal required, HB 991 citizenship proof (effective Jan 1 2027 — not 2026). New district boundaries: Miami-Dade northwest + southwest Broward (Collier dropped). FL Supreme Court denied injunction June 10 (6-1); merits trial ongoing (conf-fl26-001). All 14 sources verified. All 15 events and 11 rules flagged needsReview pending Miami-Dade and Broward SOE 2026-specific confirmation.",
+      "generatedAt": "2026-06-12T12:00:00Z"
+    }
+  }
+}
