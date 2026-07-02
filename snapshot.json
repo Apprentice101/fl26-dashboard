@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-06-12",
   "updatedAt": "2026-06-12T12:00:00Z",
-  "exportedAt": "2026-07-01T20:02:45.564Z",
+  "exportedAt": "2026-07-02T04:25:07.024Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -432,8 +432,8 @@
           "src-broward-soe",
           "src-ballotpedia-fl26"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-12",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -496,7 +496,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-12",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "Florida Statutes § 101.043. Voters without ID may cast a provisional ballot and cure within 2 days by providing ID to their county SOE."
       },
       {
@@ -570,7 +570,7 @@
       {
         "id": "rule-fl-hb991-citizenship",
         "topic": "HB 991 — Documentary proof of citizenship for new registrations (effective Jan 1, 2027)",
-        "currentRule": "Governor DeSantis signed HB 991 (Chapter 2026-26) on April 1, 2026, requiring new voter registrants to provide documentary proof of U.S. citizenship (passport, birth certificate, or DHSMV-verified driver license) to register to vote. The law takes effect January 1, 2027 — after the 2026 midterm election cycle. The 2026 primary and general elections are NOT affected; current registrations remain valid.",
+        "currentRule": "Governor DeSantis signed HB 991 (Chapter 2026-26) on April 1, 2026, requiring new voter registrants to provide documentary proof of U.S. citizenship. Acceptable documents include: a valid U.S. passport; an original or certified U.S. birth certificate; a Consular Report of Birth Abroad; a naturalization certificate; a current and valid Florida driver license or ID card that indicates U.S. citizenship; a qualifying federal or state photo ID indicating U.S. citizenship; or a federal court order granting U.S. citizenship. The law takes effect January 1, 2027 — after the 2026 midterm election cycle. The 2026 primary and general elections are NOT affected; current registrations remain valid.",
         "status": "watch",
         "whyItMatters": "HB 991 does not affect 2026 elections but is under active federal litigation (League of Women Voters of Florida et al., filed April 1, 2026). Miami-Dade and Broward SOEs are named defendants. A court injunction before 2026 could affect implementation timing. FL-26 voters registering before January 1, 2027 are not subject to the new requirement.",
         "governingLevel": "statewide",
@@ -580,7 +580,7 @@
           "src-wlrn"
         ],
         "confidence": "unconfirmed",
-        "lastVerified": "2026-06-12",
+        "lastVerified": "2026-07-01",
         "needsReview": true,
         "detail": "HB 991, Chapter 2026-26 (signed April 1, 2026). Effective January 1, 2027. Litigation pending in federal court; Miami-Dade and Broward SOEs named defendants."
       },
