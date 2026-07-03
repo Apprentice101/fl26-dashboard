@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:23:47.339Z",
-  "exportedAt": "2026-07-03T00:36:32.540Z",
+  "updatedAt": "2026-07-03T01:27:57.122Z",
+  "exportedAt": "2026-07-03T01:42:03.009Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -879,20 +879,30 @@
         "relevanceSummary": "The Florida House (83-28) and Senate (21-17) passed HB 1-D — a mid-decade redrawing of all 28 congressional districts — on April 29, 2026, which Governor DeSantis signed May 4. For FL-26 (Díaz-Balart's seat), the new map drops all of Collier County and adds parts of southwest Broward County (Pembroke Pines, Miramar, Cooper City, Davie, Southwest Ranches), reducing the Trump margin from approximately 35 points to 18 points and shifting which supervisors of elections administer the seat. Democrats condemned the map as an unconstitutional partisan gerrymander under Florida's Fair Districts Amendment; legal challenges are ongoing.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-047dpe1",
+        "headline": "Florida's 26th Congressional District election, 2026 (August 18 Republican primary)",
+        "sourceName": "Ballotpedia",
+        "url": "https://ballotpedia.org/Florida's_26th_Congressional_District_election,_2026_(August_18_Republican_primary)",
+        "publishedAt": "2026-06-20",
+        "relevanceSummary": "Ballotpedia details that Florida’s U.S. House elections, including FL-26, will use the new congressional map and provides the August 18, 2026 Republican primary date and candidate information, giving FL-26 voters key scheduling and ballot-access context for the upcoming election.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-fl26-auto",
-      "startedAt": "2026-07-03T00:22:09.263Z",
-      "completedAt": "2026-07-03T00:23:47.339Z",
+      "startedAt": "2026-07-03T01:26:34.054Z",
+      "completedAt": "2026-07-03T01:27:57.122Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 23,
-      "updatesCreated": 0,
+      "sourcesChecked": 21,
+      "updatesCreated": 1,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for FL-26. Sources checked: 23. LLM verifications: 25. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-03 for FL-26. Sources checked: 21. LLM verifications: 23. No changes detected; all sources verified unchanged. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:23:47.339Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:27:57.122Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
