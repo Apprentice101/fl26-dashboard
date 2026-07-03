@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-12",
-  "updatedAt": "2026-06-12T12:00:00Z",
-  "exportedAt": "2026-07-03T00:02:47.521Z",
+  "dataAsOf": "2026-07-03",
+  "updatedAt": "2026-07-03T00:23:47.339Z",
+  "exportedAt": "2026-07-03T00:36:32.540Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-06-12",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-fl-dos-register": {
@@ -882,17 +882,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-12-fl-26-initial",
-      "startedAt": "2026-06-12T11:00:00Z",
-      "completedAt": "2026-06-12T12:00:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 14,
+      "id": "run-2026-07-03-fl26-auto",
+      "startedAt": "2026-07-03T00:22:09.263Z",
+      "completedAt": "2026-07-03T00:23:47.339Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 23,
       "updatesCreated": 0,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Initial build June 12, 2026. All 14 sources verified. FL-26 primary (August 18) and general (November 3) timelines researched from FL DOS, FL Election Code (SB 90, HB 991, HB 1-D), and county SOE sources. Qualifying closed June 12 under HB 1-D map: Díaz-Balart (R, reportedly unopposed), Gil and Locklin (D primary). Florida Supreme Court 6-1 ruling June 10 allows HB 1-D for 2026 elections; merits litigation ongoing. All 15 events and 11 rules marked needsReview/unconfirmed pending county-specific 2026 deadline confirmation from Miami-Dade and Broward SOEs."
+      "summary": "Automated refresh completed 2026-07-03 for FL-26. Sources checked: 23. LLM verifications: 25. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-06-19T12:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-10T00:23:47.339Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
