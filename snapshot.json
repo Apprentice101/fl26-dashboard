@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:23:28.502Z",
-  "exportedAt": "2026-07-08T06:27:59.577Z",
+  "updatedAt": "2026-07-08T19:36:40.992Z",
+  "exportedAt": "2026-07-08T19:42:40.150Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-06-12",
+        "lastVerified": "2026-07-08",
         "confidence": "high"
       },
       "src-fl-senate-hb1d": {
@@ -893,16 +893,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-fl26-auto",
-      "startedAt": "2026-07-08T06:23:19.156Z",
-      "completedAt": "2026-07-08T06:23:28.502Z",
+      "startedAt": "2026-07-08T19:36:35.970Z",
+      "completedAt": "2026-07-08T19:36:40.992Z",
       "triggerType": "scheduled",
       "sourcesChecked": 32,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for FL-26. Sources checked: 32. LLM verifications: 34. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-08 for FL-26. Sources checked: 32. LLM verifications: 33. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:23:28.502Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:36:40.992Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
