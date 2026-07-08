@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T01:27:57.122Z",
-  "exportedAt": "2026-07-04T00:39:02.691Z",
+  "dataAsOf": "2026-07-08",
+  "updatedAt": "2026-07-08T06:23:28.502Z",
+  "exportedAt": "2026-07-08T06:27:59.577Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -892,17 +892,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-03-fl26-auto",
-      "startedAt": "2026-07-03T01:26:34.054Z",
-      "completedAt": "2026-07-03T01:27:57.122Z",
+      "id": "run-2026-07-08-fl26-auto",
+      "startedAt": "2026-07-08T06:23:19.156Z",
+      "completedAt": "2026-07-08T06:23:28.502Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 21,
-      "updatesCreated": 1,
-      "conflictsCreated": 1,
+      "sourcesChecked": 32,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for FL-26. Sources checked: 21. LLM verifications: 23. No changes detected; all sources verified unchanged. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-08 for FL-26. Sources checked: 32. LLM verifications: 34. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T01:27:57.122Z",
+    "NEXT_REFRESH_AT": "2026-07-15T06:23:28.502Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
