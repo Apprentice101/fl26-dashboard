@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:36:40.992Z",
-  "exportedAt": "2026-07-08T20:34:44.778Z",
+  "exportedAt": "2026-07-09T17:03:24.127Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -672,40 +672,70 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-fl-dos-elections",
-        "label": "Florida Division of Elections — Official elections portal",
-        "url": "https://dos.fl.gov/elections/",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official Florida elections hub: voter registration, election calendar, results, county resources, and voting rules. Authoritative source for FL-26 election deadlines, qualifying information, and HB 991/SB 90 guidance.",
+        "url": "https://dos.fl.gov/elections/",
         "governingAuthority": "Florida Department of State",
         "sourceType": "official-state",
         "sourceId": "src-fl-dos-elections",
-        "lastVerified": "2026-06-12"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-fl-dos-register",
-        "label": "registertovoteflorida.gov — Florida online voter registration",
-        "url": "https://registertovoteflorida.gov",
-        "description": "Register to vote, update your address, or change your party affiliation online. Primary registration deadline: July 20, 2026. General election deadline: October 5, 2026. Florida does not have same-day registration.",
-        "governingAuthority": "Florida Department of State",
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Florida county Supervisor of Elections directory — find your county's polling places.",
+        "url": "https://dos.fl.gov/elections/contacts/supervisor-of-elections/",
+        "governingAuthority": "Florida Division of Elections",
         "sourceType": "official-state",
-        "sourceId": "src-fl-dos-register",
-        "lastVerified": "2026-06-12"
+        "sourceId": "src-fl-doe",
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-miamidade-soe",
-        "label": "votemiamidade.gov — Miami-Dade County Supervisor of Elections",
-        "url": "https://www.votemiamidade.gov",
-        "description": "Primary voter resource for FL-26's Miami-Dade constituents (Hialeah, Doral, Miami Lakes, Miami Springs, Medley). Redesigned site launched May 21, 2026. Includes VBM request renewal reminders, precinct finder, early voting locations, and voter registration tools. SOE: Alina Garcia. Phone: (305) 499-8683.",
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "Official instructions for returning vote-by-mail ballots, including secure ballot intake station (drop box) locations.",
+        "url": "https://www.votemiamidade.gov/elections/voters/vote-by-mail.page",
         "governingAuthority": "Miami-Dade County Supervisor of Elections",
         "sourceType": "official-county",
-        "sourceId": "src-miamidade-soe",
-        "lastVerified": "2026-06-12"
+        "sourceId": "src-fl26-county",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Confirm your Florida voter registration status.",
+        "url": "https://registration.elections.myflorida.com/CheckVoterStatus",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-doe",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Track a Florida vote-by-mail ballot from request through acceptance.",
+        "url": "https://registration.elections.myflorida.com/CheckVoterStatus",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-doe",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Florida election results portal. FL-26 primary results (August 18, 2026) and general election results (November 3, 2026) will be posted here during and after canvass.",
+        "url": "https://results.elections.myflorida.com",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-results",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-broward-soe",
         "label": "browardsoe.org — Broward County Supervisor of Elections",
-        "url": "https://www.browardsoe.org",
         "description": "Official elections site for Broward County voters. Southwest Broward communities now in FL-26 under 2026 HB 1-D map (Pembroke Pines west, Miramar west, Cooper City, Davie, Southwest Ranches). Check updated precinct assignments before the August 18 primary.",
+        "url": "https://www.browardsoe.org",
         "governingAuthority": "Broward County Supervisor of Elections",
         "sourceType": "official-county",
         "sourceId": "src-broward-soe",
@@ -714,28 +744,18 @@
       {
         "id": "res-collier-soe",
         "label": "colliervotes.gov — Collier County Supervisor of Elections",
-        "url": "https://www.colliervotes.gov",
         "description": "Official elections site for Collier County. Collier County was part of FL-26 under prior maps; under 2026 HB 1-D, Collier is assigned to a different district. ~173,000 Collier voters received new Voter Information Cards in June 2026 reflecting the change.",
+        "url": "https://www.colliervotes.gov",
         "governingAuthority": "Collier County Supervisor of Elections",
         "sourceType": "official-county",
         "sourceId": "src-collier-soe",
         "lastVerified": "2026-06-12"
       },
       {
-        "id": "res-fl-dos-results",
-        "label": "Florida Division of Elections — Election Results",
-        "url": "https://results.elections.myflorida.com",
-        "description": "Official Florida election results portal. FL-26 primary results (August 18, 2026) and general election results (November 3, 2026) will be posted here during and after canvass.",
-        "governingAuthority": "Florida Department of State",
-        "sourceType": "official-state",
-        "sourceId": "src-fl-dos-results",
-        "lastVerified": "2026-06-12"
-      },
-      {
         "id": "res-ballotpedia-fl26",
         "label": "Ballotpedia — FL-26 2026 election",
-        "url": "https://ballotpedia.org/Florida%27s_26th_Congressional_District_election,_2026",
         "description": "Nonpartisan reference page for FL-26's 2026 election: candidate profiles (Díaz-Balart, Gil, Locklin), race ratings, campaign finance summary, and redistricting notes.",
+        "url": "https://ballotpedia.org/Florida%27s_26th_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-fl26",
@@ -744,8 +764,8 @@
       {
         "id": "res-fl-senate-hb1d",
         "label": "Florida Legislature — HB 1-D redistricting bill",
-        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
         "description": "Full text of Florida's 2026 mid-decade congressional redistricting bill (HB 1-D), signed May 4, 2026. Includes the new FL-26 district boundaries dropping Collier and adding southwest Broward.",
+        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
         "governingAuthority": "Florida Legislature",
         "sourceType": "statutory",
         "sourceId": "src-fl-senate-hb1d",
