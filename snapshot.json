@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:36:40.992Z",
-  "exportedAt": "2026-07-09T17:03:24.127Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:14:28.836Z",
+  "exportedAt": "2026-07-15T06:38:42.661Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -199,7 +199,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-06-12",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-wgcu": {
@@ -909,20 +909,80 @@
         "relevanceSummary": "Ballotpedia details that Florida’s U.S. House elections, including FL-26, will use the new congressional map and provides the August 18, 2026 Republican primary date and candidate information, giving FL-26 voters key scheduling and ballot-access context for the upcoming election.[2]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-02638sp",
+        "headline": "Vote-by-mail begins in Florida ahead of August primary",
+        "sourceName": "CBS News Miami",
+        "url": "https://www.cbsnews.com/miami/news/florida-vote-by-mail-august-primary/",
+        "publishedAt": "2026-07-14",
+        "relevanceSummary": "This piece explains that vote-by-mail for Florida’s August 18 primary has begun and reminds voters that the deadline to register or change party affiliation is July 20, with in-person early voting at limited polling locations from Aug. 8–15 in most counties, which directly affects how FL-26 voters can participate in the primary.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0q3r08j",
+        "headline": "July 20 is the voter registration deadline for the 2026 primary election",
+        "sourceName": "WGCU",
+        "url": "https://www.wgcu.org/government-politics/2026-07-13/july-20-is-the-voter-registration-deadline-for-the-2026-primary-election",
+        "publishedAt": "2026-07-13",
+        "relevanceSummary": "This article highlights that, under Florida law, voter registration and party affiliation changes must be made 29 days before an election, making Monday, July 20 the cutoff for the 2026 primary, a statewide rule that governs registration for all voters including those in FL-26.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0886pk8",
+        "headline": "Tu Voto, Tu Voz: Preparándonos para las Elecciones 2026",
+        "sourceName": "Univision Orlando WVEN",
+        "url": "https://www.univision.com/local/orlando-wven/tu-voto-tu-voz-preparandonos-para-las-elecciones-2026-video",
+        "publishedAt": "2026-07-12",
+        "relevanceSummary": "This Spanish-language segment advises Florida voters to contact their county elections officials to obtain information on election dates and polling locations, reinforcing statewide practices for accessing local election procedure details that are relevant for Spanish-speaking voters in FL-26.[6]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-01m8wsb",
+        "headline": "2026 Key Voting Information",
+        "sourceName": "FloridaTrib.org",
+        "url": "https://floridatrib.org/2026elections/2026-key-voting-information/",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "This statewide explainer compiles key voting information for Florida’s 2026 elections, including how voters can check their registration status and register at registertovoteflorida.gov, providing baseline procedural guidance that applies directly to FL-26 voters.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0fcw00x",
+        "headline": "Leon County Supervisor of Elections mails ballots for 2026 Primary Election",
+        "sourceName": "Leon County Supervisor of Elections",
+        "url": "https://www.leonvotes.gov/Your-Elections-Office/News-and-Notices/ArtMID/465/ArticleID/51/Leon-County-Supervisor-of-Elections-Mails-Ballots-for-2026-Primary-Election",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "This announcement that Leon County has begun mailing vote-by-mail ballots for the 2026 primary, along with contact information for questions, provides a concrete example of Florida county election administration and timelines that mirror procedures FL-26 voters can expect in their own counties.[4]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-06bnlz6",
+        "headline": "2026 Primary Election",
+        "sourceName": "Flagler County Supervisor of Elections",
+        "url": "https://www.flaglerelections.gov/Elections/2026-Primary-Election",
+        "publishedAt": "2026-07-08",
+        "relevanceSummary": "This county-level notice details deadlines to request and return vote-by-mail ballots for the August 18 primary, including that requests are due by August 6 at 5:00 p.m. and ballots must be received by 7:00 p.m. on Election Day, illustrating how Florida counties are implementing statewide mail-ballot rules that also govern procedures for FL-26 voters.[3]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-fl26-auto",
-      "startedAt": "2026-07-08T19:36:35.970Z",
-      "completedAt": "2026-07-08T19:36:40.992Z",
+      "id": "run-2026-07-15-fl26-auto",
+      "startedAt": "2026-07-15T06:13:03.796Z",
+      "completedAt": "2026-07-15T06:14:28.836Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 32,
-      "updatesCreated": 0,
+      "sourcesChecked": 18,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for FL-26. Sources checked: 32. LLM verifications: 33. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-15 for FL-26. Sources checked: 18. LLM verifications: 19. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:36:40.992Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:14:28.836Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
