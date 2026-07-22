@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:14:28.836Z",
-  "exportedAt": "2026-07-15T06:38:42.661Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:29:25.061Z",
+  "exportedAt": "2026-07-22T06:50:02.813Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-fl-senate-hb1d": {
@@ -969,20 +969,80 @@
         "relevanceSummary": "This county-level notice details deadlines to request and return vote-by-mail ballots for the August 18 primary, including that requests are due by August 6 at 5:00 p.m. and ballots must be received by 7:00 p.m. on Election Day, illustrating how Florida counties are implementing statewide mail-ballot rules that also govern procedures for FL-26 voters.[3]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0wlsbbo",
+        "headline": "2026 primary election: County-by-county voter’s guide — Here’s how to cast your ballot",
+        "sourceName": "FOX 13 News Tampa Bay",
+        "url": "https://www.fox13news.com/news/2026-primary-election-county-by-county-voters-guide-heres-how-cast-ballot",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "This guide outlines Florida’s closed-primary rules, party registration deadline, and statewide vote‑by‑mail procedures, including the need to file a new mail‑ballot request for 2026 and deadlines for mailing and returning ballots, which inform FL‑26 voters about how to participate in the primary.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0kp5ij2",
+        "headline": "Here are the key dates you need to know ahead of the 2026 Florida elections",
+        "sourceName": "WUSF",
+        "url": "https://wusf.org/text/politics-issues/2026-07-17/2026-florida-elections-key-dates-need-to-know",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "This statewide guide explains Florida’s 2026 election calendar, voter registration methods and eligibility rules, how to request and return vote‑by‑mail ballots, and which photo IDs are accepted at polling places, all of which directly govern how FL‑26 voters can register and cast ballots.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0xa8s7a",
+        "headline": "Central Florida elections supervisors say it’s time to get ‘election ready’",
+        "sourceName": "CF Public",
+        "url": "https://www.cfpublic.org/politics/2026-07-14/central-florida-elections-supervisors-say-its-time-to-get-election-ready",
+        "publishedAt": "2026-07-14",
+        "relevanceSummary": "Central Florida supervisors of elections urge voters to rely on official information and highlight practical steps to prepare for the 2026 elections, including checking registration status, understanding early voting and vote-by-mail options, and contacting county supervisors with questions.[5] While focused on Central Florida, the procedural guidance applies statewide, including to FL-26 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0j5h2sn",
+        "headline": "Election Changes in Collier County",
+        "sourceName": "Collier County Supervisor of Elections (YouTube)",
+        "url": "https://www.youtube.com/watch?v=76eUQLi5xJw",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "The Collier County Supervisor of Elections explains key statewide deadlines and procedures, including Florida’s rule that voter registration closes 29 days before election day, early voting dates and hours, and options to register or check status online.[6] These rules are set at the state level and also govern FL-26 voters’ registration and voting timelines.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0btad3k",
+        "headline": "Florida Congressional Redistricting Challenge (Equal Ground)",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/cases/florida-congressional-redistricting-challenge-equal-ground/",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "Plaintiffs, including Equal Ground Education Fund, filed a state lawsuit challenging Florida’s new congressional map as an unconstitutional partisan gerrymander that adds four Republican-leaning seats ahead of the 2026 midterms.[7][2] Although the map is currently in effect, FL-26 voters should be aware of this ongoing litigation, which could alter future district lines or election procedures.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0b1suff",
+        "headline": "Qualifying Information for 2026 Florida Candidates",
+        "sourceName": "Florida Division of Elections",
+        "url": "https://dos.fl.gov/elections/candidates-committees/qualifying/",
+        "publishedAt": "2026-07-05",
+        "relevanceSummary": "The Florida Division of Elections outlines 2026 qualifying deadlines for Representatives in Congress, Governor, Cabinet, and other offices, including the May 11, 2026 qualifying deadline for congressional candidates and the location of the state qualifying office.[1] FL-26 voters are affected because these rules determine which candidates successfully file and appear on their primary and general election ballots.",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-fl26-auto",
-      "startedAt": "2026-07-15T06:13:03.796Z",
-      "completedAt": "2026-07-15T06:14:28.836Z",
+      "id": "run-2026-07-22-fl26-auto",
+      "startedAt": "2026-07-22T06:27:45.383Z",
+      "completedAt": "2026-07-22T06:29:25.061Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 18,
+      "sourcesChecked": 19,
       "updatesCreated": 6,
-      "conflictsCreated": 0,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for FL-26. Sources checked: 18. LLM verifications: 19. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for FL-26. Sources checked: 19. LLM verifications: 20. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:14:28.836Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:29:25.061Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
