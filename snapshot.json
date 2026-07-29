@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:29:25.061Z",
-  "exportedAt": "2026-07-22T21:15:03.910Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:30:54.961Z",
+  "exportedAt": "2026-07-29T06:53:20.945Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-fl-dos-register": {
@@ -1029,20 +1029,70 @@
         "relevanceSummary": "The Florida Division of Elections outlines 2026 qualifying deadlines for Representatives in Congress, Governor, Cabinet, and other offices, including the May 11, 2026 qualifying deadline for congressional candidates and the location of the state qualifying office.[1] FL-26 voters are affected because these rules determine which candidates successfully file and appear on their primary and general election ballots.",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-07macck",
+        "headline": "Are you voting by mail in Florida primary? You'll need to request a ballot",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/2026/07/24/new-florida-law-requires-voters-request-mail-in-ballots-every-two-years/90875599007/",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "A statewide change in Florida law requires voters to submit a new vote‑by‑mail request every two years, covering all elections in that calendar year, and outlines deadlines, request methods, and ID information (driver license/ID or last four of SSN) needed for mail‑ballot requests and return, which fully applies to FL‑26 voters for both the August primary and November general.[10]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-09efxnu",
+        "headline": "DeSantis signs Florida voter ID bill; lawsuit filed minutes later",
+        "sourceName": "Local10",
+        "url": "https://www.local10.com/topic/politics/",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "Gov. Ron DeSantis signed a sweeping statewide elections bill often described as Florida’s version of the SAVE Act, which tightens voter ID and proof-of-citizenship requirements for voter registration; voting-rights groups immediately filed a federal lawsuit challenging the law, meaning FL-26 voters face both new registration documentation rules and potential legal changes before November.[8]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0woxt3p",
+        "headline": "How Florida election supervisors are protecting the 2026 vote",
+        "sourceName": "Tampa Bay Times",
+        "url": "https://www.tampabay.com/news/florida-politics/elections/2026/07/22/florida-election-security-trump-what-to-know-mail-ballot-fraud/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "This statewide overview explains how Florida supervisors of elections maintain accurate voter registration rolls, verify voter citizenship, and enforce the state’s photo ID requirement for in‑person voting, providing FL‑26 voters with context on list maintenance, fraud prevention, and what identification they must show at the polls.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0ofs4kz",
+        "headline": "Duval County elections chief urges voters to update records after new driver license numbers",
+        "sourceName": "Duval County Supervisor of Elections",
+        "url": "https://www.duvalelections.gov/m/newsflash?cat=7",
+        "publishedAt": "2026-07-20",
+        "relevanceSummary": "Following a security‑focused change to Florida driver license and ID card numbers, Duval County’s supervisor of elections urges voters to update their voter registration with their new license number because it is used to verify identity for record updates and vote‑by‑mail requests, highlighting a statewide administrative issue that FL‑26 voters should heed if they receive updated IDs.[5]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0tttp8v",
+        "headline": "ID Required to Vote",
+        "sourceName": "Flagler County Supervisor of Elections",
+        "url": "https://www.flaglerelections.gov/Elections/ID-Required-to-Vote",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "Flagler County’s elections office reiterates Florida’s statewide in‑person voter ID rules, listing acceptable photo-and-signature IDs (such as Florida driver license, passport, military or student ID), stating that IDs must be current and that voters without proper ID must vote a provisional ballot, and reminding that polls are open 7 a.m.–7 p.m. and voters must use their assigned precinct—all procedures that also apply in FL‑26.[4]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-fl26-auto",
-      "startedAt": "2026-07-22T06:27:45.383Z",
-      "completedAt": "2026-07-22T06:29:25.061Z",
+      "id": "run-2026-07-29-fl26-auto",
+      "startedAt": "2026-07-29T06:29:38.633Z",
+      "completedAt": "2026-07-29T06:30:54.961Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 19,
-      "updatesCreated": 6,
+      "sourcesChecked": 15,
+      "updatesCreated": 5,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for FL-26. Sources checked: 19. LLM verifications: 20. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-29 for FL-26. Sources checked: 15. LLM verifications: 16. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:29:25.061Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:30:54.961Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
