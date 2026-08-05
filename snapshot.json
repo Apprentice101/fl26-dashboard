@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:30:54.961Z",
-  "exportedAt": "2026-07-29T06:53:20.945Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:26:46.143Z",
+  "exportedAt": "2026-08-05T06:47:11.225Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -1079,20 +1079,90 @@
         "relevanceSummary": "Flagler County’s elections office reiterates Florida’s statewide in‑person voter ID rules, listing acceptable photo-and-signature IDs (such as Florida driver license, passport, military or student ID), stating that IDs must be current and that voters without proper ID must vote a provisional ballot, and reminding that polls are open 7 a.m.–7 p.m. and voters must use their assigned precinct—all procedures that also apply in FL‑26.[4]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-03qlrt2",
+        "headline": "Florida HB 1D Explained: New 2026 Congressional Map",
+        "sourceName": "John Peters for Congress",
+        "url": "https://www.johnpetersforcongress.com/blog/florida-hb-1d-explained-new-congressional-map/",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "This explainer notes that both the Aug. 18, 2026 primary and the Nov. 3, 2026 general election will use Florida’s new HB 1D congressional districts, meaning FL-26 voters will cast ballots under updated district boundaries that may change which races and candidates appear on their ballots.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0mpirvq",
+        "headline": "Florida politics Re-Cap: Voter data, campaign cash and two lawmakers in court",
+        "sourceName": "WTXL",
+        "url": "https://www.wtxl.com/news/capitol-news/florida-politics-re-cap-voter-data-campaign-cash-and-two-lawmakers-in-court",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "State intelligence records show foreign actors downloaded publicly available Florida voter-registration data, underscoring statewide data-security concerns and highlighting how voter file access and protection affect all Florida voters, including those in FL-26.[13]",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0abyzae",
+        "headline": "Get the facts on Florida's voting laws",
+        "sourceName": "WESH",
+        "url": "https://www.wesh.com/article/get-the-facts-on-floridas-voting-laws/72091809",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "This explainer details current Florida voting rules, including the July 20 deadline to register or change party for the Aug. 18 primary and the new Florida SAVE Act requirements mandating proof of U.S. citizenship and stricter ID for voter registration, which apply statewide to FL-26 voters.[6]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0dwi8cc",
+        "headline": "A rush job on redistricting spells problems",
+        "sourceName": "South Florida Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/07/18/a-rush-job-on-redistricting-spells-problems-editorial/",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "Discussing new voter information cards and changed precinct polling places in Broward and Palm Beach, this piece highlights how redistricting is causing precinct and polling-place changes and the mailing of updated voter ID cards, illustrating administrative steps FL counties take that are likely mirrored in FL-26’s counties under the new map.[9]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0h2ilft",
+        "headline": "Deadline nears to register to vote in 2026 primaries. Here's how in Broward and Palm Beach counties",
+        "sourceName": "South Florida Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/07/18/deadline-nears-to-register-to-vote-in-2026-primaries-heres-how-in-broward-and-palm-beach-counties/",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "The article explains the July 20 statewide registration and party-change deadline and outlines ID and online procedures for updating voter registration, providing an example of county-level implementation of Florida law that mirrors the process FL-26 voters must follow in their own counties.[12]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0xizccb",
+        "headline": "Florida's SAVE Act faces legal challenges as federal version stalls",
+        "sourceName": "Bay News 9",
+        "url": "https://baynews9.com/fl/tampa/politics/2026/07/17/floridas-save-act-faces-legal-challenges-as-federal-version-stalls",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "Florida's SAVE Act, taking effect Jan. 1, 2027, will require proof of U.S. and Florida citizenship to register and official ID to vote, direct supervisors to intensify voter-roll reviews, and increase penalties for election crimes; ongoing lawsuits may alter these statewide rules that will govern FL-26 voters.[7]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0tbwoed",
+        "headline": "Florida federal judge orders DHS to restore voter database access for 4 states",
+        "sourceName": "FOX 5 DC",
+        "url": "https://www.fox5dc.com/news/florida-federal-judge-orders-dhs-restore-voter-database-access-4-states",
+        "publishedAt": "2026-07-16",
+        "relevanceSummary": "A Florida federal judge required DHS to continue allowing Florida and three other states to access a voter database used to check citizenship status and clean voter rolls, which affects how Florida updates registration lists and could influence eligibility reviews for FL-26 voters.[8]",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-fl26-auto",
-      "startedAt": "2026-07-29T06:29:38.633Z",
-      "completedAt": "2026-07-29T06:30:54.961Z",
+      "id": "run-2026-08-05-fl26-auto",
+      "startedAt": "2026-08-05T06:25:19.493Z",
+      "completedAt": "2026-08-05T06:26:46.143Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 5,
-      "conflictsCreated": 1,
+      "sourcesChecked": 16,
+      "updatesCreated": 7,
+      "conflictsCreated": 2,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for FL-26. Sources checked: 15. LLM verifications: 16. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-05 for FL-26. Sources checked: 16. LLM verifications: 18. No changes detected; all sources verified unchanged. 2 conflicts flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:30:54.961Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:26:46.143Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
