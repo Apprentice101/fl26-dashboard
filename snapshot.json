@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:26:46.143Z",
-  "exportedAt": "2026-08-05T06:47:11.225Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:29:39.462Z",
+  "exportedAt": "2026-08-12T05:46:28.213Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -1149,20 +1149,40 @@
         "relevanceSummary": "A Florida federal judge required DHS to continue allowing Florida and three other states to access a voter database used to check citizenship status and clean voter rolls, which affects how Florida updates registration lists and could influence eligibility reviews for FL-26 voters.[8]",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0tnrdez",
+        "headline": "Ron DeSantis says new tax amendment ballot summary fixes judge's concerns",
+        "sourceName": "Florida Politics",
+        "url": "https://floridapolitics.com/archives/811881-sunburn-the-morning-read-of-whats-hot-in-florida-politics-8-7-26/",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "Florida Politics reports that a Leon County judge ruled the original ballot language misleading and that the state will move forward with rewritten language for Amendment 3. While this is not a candidate race, it is a statewide ballot-access and ballot-procedure issue that Florida voters, including FL-26 voters, may encounter on the November ballot.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0x0hmxb",
+        "headline": "Florida Early Voting Commences: ID Requirements, Deadlines, Dates",
+        "sourceName": "Floridian Press",
+        "url": "https://floridianpress.com/2026/08/juice%F0%9F%8D%8A-8-6-2026-early-voting-underway-florida-chamber-of-commerce-endorses-ashley-moody-and-more/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This article is directly relevant to FL-26 voters because Florida statewide early-voting procedures and identification requirements apply to all voters in the district. It specifically highlights ID requirements and deadlines tied to early voting, which can affect in-person voting access.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-fl26-auto",
-      "startedAt": "2026-08-05T06:25:19.493Z",
-      "completedAt": "2026-08-05T06:26:46.143Z",
+      "id": "run-2026-08-12-fl26-auto",
+      "startedAt": "2026-08-12T05:28:38.608Z",
+      "completedAt": "2026-08-12T05:29:39.462Z",
       "triggerType": "scheduled",
       "sourcesChecked": 16,
-      "updatesCreated": 7,
-      "conflictsCreated": 2,
+      "updatesCreated": 2,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for FL-26. Sources checked: 16. LLM verifications: 18. No changes detected; all sources verified unchanged. 2 conflicts flagged for human review."
+      "summary": "Automated refresh completed 2026-08-12 for FL-26. Sources checked: 16. LLM verifications: 17. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:26:46.143Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:29:39.462Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
