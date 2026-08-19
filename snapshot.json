@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:29:39.462Z",
-  "exportedAt": "2026-08-12T05:46:28.213Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:37:51.430Z",
+  "exportedAt": "2026-08-19T05:06:48.418Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -211,7 +211,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-06-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-miami-herald": {
@@ -1169,20 +1169,100 @@
         "relevanceSummary": "This article is directly relevant to FL-26 voters because Florida statewide early-voting procedures and identification requirements apply to all voters in the district. It specifically highlights ID requirements and deadlines tied to early voting, which can affect in-person voting access.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0camu1s",
+        "headline": "DOJ sends election monitors to Miami-Dade for primary",
+        "sourceName": "Axios Miami",
+        "url": "https://www.axios.com/local/miami/2026/08/18/miami-dade-florida-primary-election-federal-poll-monitoring",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Reports that the U.S. Department of Justice deployed election monitors to polling places in Miami‑Dade County for the primary, signalling heightened oversight of election administration and polling‑place procedures in a county that includes FL‑26.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0koit7j",
+        "headline": "Here's the memo: Primary Election Day 2026",
+        "sourceName": "Yahoo News (memo explainer)",
+        "url": "https://www.yahoo.com/news/politics/articles/memo-primary-election-day-2026-040549570.html",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Summarizes Florida’s Election Day rules, including the requirement for a current and valid photo ID, the list of acceptable IDs, and provisional ballot procedures when ID is not provided, all of which directly govern how FL‑26 voters can cast ballots and cure issues.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0bqr2fu",
+        "headline": "Primary election 2026: Here's how to cast a ballot in the ...",
+        "sourceName": "Yahoo News (local partner article)",
+        "url": "https://www.yahoo.com/news/politics/articles/primary-election-2026-heres-cast-095630729.html",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Explains how to cast a ballot in Florida’s August 18 primary, emphasizing that mail‑in ballots must be received by county election officials by 7 p.m. on Election Day and summarizing early‑voting and mail‑ballot options, providing FL‑26 voters with practical procedural guidance.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0mzxd3v",
+        "headline": "Early Voting & Ballot Return",
+        "sourceName": "Broward County Supervisor of Elections",
+        "url": "https://browardvotes.gov/voting-methods/early-voting-dates-hours-and-sites",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Outlines early‑voting dates and hours, secure ballot intake station locations, limits on how many vote‑by‑mail ballots a person may return, and the list of acceptable photo IDs for Florida voters; though focused on Broward, it reflects statewide early‑voting, mail‑ballot return, and voter‑ID rules that also govern FL‑26 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-01spe0o",
+        "headline": "Ultimate Election Day voter guide to the Tallahassee, Florida primary",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/08/17/tallahassee-florida-election-day-voter-guide-to-the-primary-ballot-races-issues-debates-leon/91346854007/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Provides a Florida Election Day voter guide that reiterates statewide rules that mail ballots must be received by 7 p.m. on Election Day and must be returned via secure drop boxes at county elections offices, reinforcing procedures that also govern FL‑26 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0x84c75",
+        "headline": "Voting in Florida's primary tomorrow? Here's what you need to bring",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/08/17/florida-primary-election-aug-18-what-to-bring-to-polls-mail-in-ballots/91333500007/",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "Explains statewide Florida rules for vote-by-mail deadlines, secure ballot drop box locations at county Supervisors of Elections offices, and required photo ID with signature for in‑person voting; these statewide procedures apply directly to FL‑26 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-061yvf6",
+        "headline": "Early voting ends soon. How to vote before Tuesday's Florida primary",
+        "sourceName": "AOL / USA Today Network",
+        "url": "https://www.aol.com/articles/early-voting-ends-soon-vote-185719000.html",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "Covers statewide early‑voting deadlines for the Florida primary, notes that the deadline to request a mail‑in ballot has passed, and lists acceptable photo IDs for in‑person voting, giving FL‑26 voters clear information on timing and voter‑ID requirements.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-03wlv34",
+        "headline": "Too late to mail your primary ballot? How to ensure it's counted in Broward and Palm Beach counties",
+        "sourceName": "South Florida Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/08/13/too-late-to-mail-your-primary-ballot-how-to-ensure-its-counted-in-broward-and-palm-beach-counties/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Details Florida’s rule that vote‑by‑mail ballots must reach the Supervisor of Elections by 7 p.m. on Election Day and describes use of secure ballot intake stations (drop boxes) and early‑voting‑site returns in Broward and Palm Beach; while county‑specific, the procedures mirror statewide mail‑ballot and drop‑box practices relevant to FL‑26 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-fl26-auto",
-      "startedAt": "2026-08-12T05:28:38.608Z",
-      "completedAt": "2026-08-12T05:29:39.462Z",
+      "id": "run-2026-08-19-fl26-auto",
+      "startedAt": "2026-08-19T04:35:37.918Z",
+      "completedAt": "2026-08-19T04:37:51.430Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
-      "updatesCreated": 2,
-      "conflictsCreated": 0,
+      "sourcesChecked": 18,
+      "updatesCreated": 8,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for FL-26. Sources checked: 16. LLM verifications: 17. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-08-19 for FL-26. Sources checked: 18. LLM verifications: 19. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:29:39.462Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:37:51.430Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
