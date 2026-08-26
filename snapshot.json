@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:37:51.430Z",
-  "exportedAt": "2026-08-19T05:06:48.418Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:41:31.797Z",
+  "exportedAt": "2026-08-26T05:14:36.886Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-fl-senate-hb1d": {
@@ -199,7 +199,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-wgcu": {
@@ -1249,20 +1249,100 @@
         "relevanceSummary": "Details Florida’s rule that vote‑by‑mail ballots must reach the Supervisor of Elections by 7 p.m. on Election Day and describes use of secure ballot intake stations (drop boxes) and early‑voting‑site returns in Broward and Palm Beach; while county‑specific, the procedures mirror statewide mail‑ballot and drop‑box practices relevant to FL‑26 voters.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0ycdsjo",
+        "headline": "General Election | Lee County Elections, FL",
+        "sourceName": "Lee County Supervisor of Elections",
+        "url": "https://www.lee.vote/254/November-3-2026",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This general‑election page explains that vote‑by‑mail ballots can be returned at secure ballot‑intake stations at all early‑voting sites or at supervisor offices during business hours, with multiple offices accepting ballots until 7 p.m. on Election Day, illustrating statewide rules on mail‑ballot drop‑off locations and hours that inform FL‑26 voters about mail‑ballot handling.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0svseby",
+        "headline": "Early Voting | Flagler County Elections Office",
+        "sourceName": "Flagler County Supervisor of Elections",
+        "url": "https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This county guidance explains that Florida early voters must present a driver license, state ID, or other acceptable photo‑and‑signature ID or else vote provisionally, and describes early‑voting dates, locations, and secure ballot‑intake stations for mail‑ballot drop‑off, illustrating statewide voter‑ID requirements and drop‑box procedures that also govern FL‑26 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-08j6avl",
+        "headline": "Voting groups help get Americans to the ballot box",
+        "sourceName": "WUSF",
+        "url": "https://wusf.org/text/politics-issues/2026-08-20/voting-groups-help-get-americans-to-ballot-box",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This report reiterates Florida’s basic voter‑registration eligibility rules, including that registrants must be U.S. citizens, legal residents of Florida and their county, and at least 16 to preregister or 18 to vote, serving as a statewide voter‑resource that clarifies registration requirements for eligible and prospective voters in FL‑26.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-07zc76e",
+        "headline": "Bender Recaps Primary, Previews Road to November",
+        "sourceName": "Rick’s Blog",
+        "url": "https://ricksblog.biz/bender-recaps-primary-previews-road-to-november/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "In previewing November, this piece notes that early voting will expand to 13 days using 10 sites with hours from 8 a.m. to 6 p.m., illustrating how Florida counties can adjust early‑voting windows and site availability within state law, which is relevant to FL‑26 voters because similar county‑level scheduling decisions shape when and where they can vote early.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0kqmnwv",
+        "headline": "What the Primary Revealed About Florida's Election Machinery",
+        "sourceName": "The Florida Press",
+        "url": "https://www.thefloridapress.com/news/what-the-primary-revealed-about-floridas-election-machinery",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This statewide explainer details Florida’s three voting methods (vote‑by‑mail, early voting sites, and Election Day precincts), closed party primary rules, use of paper ballots scanned by optical tabulators, and the requirement that vote‑by‑mail requests now expire each general‑election cycle, providing FL‑26 voters with comprehensive context on current voting and ballot procedures.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0ovelg6",
+        "headline": "Public Notice: Canvassing Board Recess - August 20, 2026",
+        "sourceName": "Orange County Supervisor of Elections",
+        "url": "https://voteorangefl.gov/public-notice-canvassing-board-recess-august-20-2026/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This canvassing board notice outlines how Florida counties canvass provisional and duplicated ballots, prepare unofficial results for the state by the statutory deadline in §102.141, F.S., and order recounts in close races, illustrating standard election‑administration, canvass, and recount procedures that apply statewide and inform FL‑26 voters about how their ballots are processed.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0ybt45h",
+        "headline": "Calendar • Deadline - Mail and Provisional Ballot Cures",
+        "sourceName": "Pinellas County Supervisor of Elections",
+        "url": "https://www.votepinellas.gov/Calendar.aspx?EID=763",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This official notice reminds Florida voters that the deadline to submit cure affidavits for mail and provisional ballots is 5 p.m. on August 20, 2026, and explains that voters who cast provisional ballots must provide eligibility proof by that same time under F.S. 101.048(6)(b), clarifying statewide signature‑cure and provisional‑ballot procedures that also govern FL‑26 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0tfbg69",
+        "headline": "Margin tightens in CD 11 contest between Joe Strada, Carey Baker as cure deadline looms",
+        "sourceName": "Florida Politics",
+        "url": "https://floridapolitics.com/archives/815878-margin-tightens-in-cd-11-contest-between-joe-strada-carey-baker-as-cure-deadline-looms/",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "This article explains that all Florida voters, including those in FL‑26, face the same statewide deadline to cure vote‑by‑mail ballots rejected for signature or other issues, and notes automatic machine‑recount rules for races with margins under 0.5%, highlighting signature‑cure procedures, cure deadlines, and recount thresholds under Florida law that affect FL‑26 ballots.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-fl26-auto",
-      "startedAt": "2026-08-19T04:35:37.918Z",
-      "completedAt": "2026-08-19T04:37:51.430Z",
+      "id": "run-2026-08-26-fl26-auto",
+      "startedAt": "2026-08-26T04:39:11.991Z",
+      "completedAt": "2026-08-26T04:41:31.797Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 18,
+      "sourcesChecked": 19,
       "updatesCreated": 8,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for FL-26. Sources checked: 18. LLM verifications: 19. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-26 for FL-26. Sources checked: 19. LLM verifications: 19. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:37:51.430Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:41:31.797Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
