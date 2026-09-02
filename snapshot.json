@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:41:31.797Z",
-  "exportedAt": "2026-08-26T05:14:36.886Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:27:32.529Z",
+  "exportedAt": "2026-09-02T09:08:24.465Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-fl-dos-register": {
@@ -109,7 +109,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-06-12",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "Florida Statutes Title IX (Chapters 97–106) govern elections. SB 90 (2021) and HB 991 (2026) amendments cited in rules."
       },
@@ -199,7 +199,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-wgcu": {
@@ -1329,20 +1329,100 @@
         "relevanceSummary": "This article explains that all Florida voters, including those in FL‑26, face the same statewide deadline to cure vote‑by‑mail ballots rejected for signature or other issues, and notes automatic machine‑recount rules for races with margins under 0.5%, highlighting signature‑cure procedures, cure deadlines, and recount thresholds under Florida law that affect FL‑26 ballots.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0o3nbzt",
+        "headline": "General Election 2026: All You Need to Know",
+        "sourceName": "Miami-Dade County",
+        "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1788204670102232",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This official Miami-Dade County release outlines key general-election information for November 2026, including early voting sites, Election Day polling locations, and logistical details directly affecting FL-26 voters who reside in Miami-Dade County.[7]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0a5yv40",
+        "headline": "2026 General Election Information (Indian River County)",
+        "sourceName": "Indian River County Supervisor of Elections",
+        "url": "https://www.voteindianriver.gov/election_information/upcoming_elections.php",
+        "publishedAt": "2026-08-30",
+        "relevanceSummary": "This county-level page lists early voting dates, locations, and emphasizes that voters must use their assigned Election Day polling place, illustrating how Florida counties implement statewide rules on polling locations and early voting that are relevant as a model for FL-26 voters.[14]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0lzgg7c",
+        "headline": "Florida mail voting on track despite Trump's attempt to limit method",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/2026/08/30/florida-mail-voting-still-track-despite-supreme-court-rulings/91488189007/",
+        "publishedAt": "2026-08-30",
+        "relevanceSummary": "This article explains that Florida’s vote-by-mail system and safeguards remain unchanged and secure despite federal litigation, clarifying that Florida voters can still request mail ballots using state-required identifying information such as a driver license, ID card number, or the last four digits of a Social Security number.[3]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0nx2v0a",
+        "headline": "Trust Through Transparency",
+        "sourceName": "Collier County Elections",
+        "url": "https://www.colliervotes.gov/CivicAlerts.aspx?AID=115",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This Collier County elections explainer details vote-by-mail security steps and signature verification, and outlines how voters are notified and given a chance to cure mismatched signatures via affidavit and ID before statutory deadlines—procedures based on statewide law that inform FL-26 voters about how similar processes work.[13]",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-036zltd",
+        "headline": "Florida Voter ID & Registration Deadline",
+        "sourceName": "Alto",
+        "url": "https://alto.gab.com/politics/voter-id/florida",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This voter-information page clarifies Florida’s voter registration deadlines and confirms that the state does not offer same-day registration, directing voters to official registration portals and local election offices—information directly relevant for FL-26 residents planning to vote.[8]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0h03mpi",
+        "headline": "Potential Voter Registration Ineligibility Notices",
+        "sourceName": "Lake County Supervisor of Elections",
+        "url": "https://www.lakevotes.gov/m/newsflash/home/detail/81",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This notice explains how voters receiving ineligibility notices may have to vote provisional ballots and then provide eligibility evidence within two days after the election for their ballot to count, illustrating statewide procedures for handling voter eligibility and provisional ballots that also apply to FL-26 voters.[11]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0g5yhd7",
+        "headline": "Seminole County Canvassing Board Certifies Official Results of 2026 Primary Election",
+        "sourceName": "Seminole County Supervisor of Elections",
+        "url": "https://voteseminole.gov/news/seminole-county-canvassing-board-certifies-official-results-of-2026-primary-election/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This notice explains statewide statutory timelines for county canvassing boards, post-election audits, and statewide certification, and describes signature-cure procedures and deadlines for provisional and vote-by-mail ballots under Florida Statutes §§101.048 and 101.68, which apply uniformly to FL-26 voters.[6]",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0olq5er",
+        "headline": "Rules - Division of Elections (Updated August 27, 2026)",
+        "sourceName": "Florida Division of Elections",
+        "url": "https://dos.fl.gov/elections/laws-rules/rules/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "The Florida Division of Elections rules page, updated August 27, 2026, signals recently effective statewide administrative rules that govern election procedures, which apply to all Florida voters including those in FL-26 for issues like canvassing, audits, and vote-by-mail processing.[4]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-fl26-auto",
-      "startedAt": "2026-08-26T04:39:11.991Z",
-      "completedAt": "2026-08-26T04:41:31.797Z",
+      "id": "run-2026-09-02-fl26-auto",
+      "startedAt": "2026-09-02T08:25:08.537Z",
+      "completedAt": "2026-09-02T08:27:32.529Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 19,
+      "sourcesChecked": 16,
       "updatesCreated": 8,
-      "conflictsCreated": 0,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for FL-26. Sources checked: 19. LLM verifications: 19. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for FL-26. Sources checked: 16. LLM verifications: 17. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:41:31.797Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:27:32.529Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
