@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:27:32.529Z",
-  "exportedAt": "2026-09-02T09:08:24.465Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:41:00.267Z",
+  "exportedAt": "2026-09-09T09:18:46.671Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-fl-dos-register": {
@@ -1409,20 +1409,100 @@
         "relevanceSummary": "The Florida Division of Elections rules page, updated August 27, 2026, signals recently effective statewide administrative rules that govern election procedures, which apply to all Florida voters including those in FL-26 for issues like canvassing, audits, and vote-by-mail processing.[4]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0mlaq7z",
+        "headline": "Florida ballots start going out soon: Check your vote-by-mail request",
+        "sourceName": "Florida Today",
+        "url": "https://www.floridatoday.com/story/news/politics/elections/2026/09/08/voting-deadlines-florida-vote-by-mail-ballots-dates-general-election-november/91654936007/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "This article details statewide deadlines for requesting and returning Florida vote‑by‑mail ballots, including the cutoff at 5 p.m. on the 12th day before the election and the requirement that ballots be received (not just postmarked) by 7 p.m. on Election Day, giving FL‑26 voters clear timelines for mail voting.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0ho5bdg",
+        "headline": "The November 2026 Election: Everything you need to know to vote in the Midterms",
+        "sourceName": "ClickOrlando",
+        "url": "https://www.clickorlando.com/election-2026/2026/09/08/the-november-2026-election-everything-you-need-to-know-to-vote-in-the-midterms/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "This statewide voter guide explains Florida’s voter registration deadline for the November 2026 election, how to register, the deadline and procedures to request and return vote‑by‑mail ballots, early voting rules, polling hours, and acceptable photo ID documents and provisional ballot procedures — all of which apply directly to voters in FL‑26.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0on25wa",
+        "headline": "As Donald Trump's vote-by-mail rule raises concerns, Florida election officials are not yet preparing",
+        "sourceName": "Florida Politics",
+        "url": "https://floridapolitics.com/archives/818575-as-donald-trumps-vote-by-mail-rule-raises-concerns-florida-election-officials-are-not-yet-preparing/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This article reports that Florida’s Department of State says the state’s vote‑by‑mail process has not been impacted by federal mail‑ballot rules and outlines existing safeguards: ID requirements when requesting ballots, signature verification upon return, and the requirement that ballots reach officials by 7 p.m. Election Day, clarifying for FL‑26 voters that current mail‑ballot procedures remain unchanged.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0qa5rpg",
+        "headline": "Form allows hundreds with felony convictions to find their voting eligibility under Amendment 4",
+        "sourceName": "WLRN",
+        "url": "https://www.wlrn.org/government-politics/2026-09-04/felony-convictions-florida-voting-eligibility-amendment-4",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This story explains a Florida Division of Elections form that people with felony convictions can submit and receive, within 90 days, an official determination of whether they are eligible to register and vote under Amendment 4, providing a concrete registration and eligibility resource for affected voters in FL‑26.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0hjsidm",
+        "headline": "Florida Primary Absentee Ballots: Requesting, Returning, and Tracking",
+        "sourceName": "StatesLaws",
+        "url": "https://stateslaws.com/florida-primary-absentee-ballots-requesting-returning-and-tracking/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This explainer details Florida’s absentee/vote‑by‑mail procedures, including how to request ballots from county supervisors, required identifiers (driver license, state ID, or last four of Social Security), deadlines for mailing ballots, required voter signatures on the return envelope, and options for returning ballots by mail, in person, or at secure ballot intake stations, providing practical process information for FL‑26 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0ggydaz",
+        "headline": "Rep. Laurel Lee Introduces Ballots by Election Day Act to Establish Clear Deadline",
+        "sourceName": "Office of Rep. Laurel Lee",
+        "url": "https://laurellee.house.gov/media/press-releases/rep-laurel-lee-introduces-ballots-election-day-act-establish-clear-deadline",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This press release notes that Florida already requires most vote‑by‑mail ballots to be received by 7:00 p.m. on Election Day to be counted and discusses federal legislation to standardize such deadlines, reinforcing for FL‑26 voters the existing receipt‑by‑Election‑Day rule for mailed ballots and the broader policy context.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-05nla81",
+        "headline": "Florida Voting Law Tightens Citizenship Requirements and Faces Lawsuit",
+        "sourceName": "MundoNow",
+        "url": "https://www.mundonow.com/en/florida-voting-law-tightens-citizenship-requirements/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This piece describes Florida’s SAVE Act (HB 991), which starting January 1, 2027 will require voters to prove citizenship with documents like birth certificates, passports, or driver’s licenses and allows the state to remove voters from the rolls if they do not resolve discrepancies within 30 days, signaling future voter‑registration and eligibility rules that FL‑26 voters should anticipate.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0s8i9xn",
+        "headline": "Supervisor of Elections Reminds Voters About Voting By Mail",
+        "sourceName": "Collier County Supervisor of Elections",
+        "url": "https://www.colliervotes.gov/m/newsflash/home/detail/117",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This county-level notice explains Florida’s requirements for requesting a vote‑by‑mail ballot, including the need to provide name, date of birth, address, and either the last four digits of a Social Security number or a Florida driver license/ID number, and highlights tools like BallotTrax, illustrating procedures that are substantially similar for FL‑26 voters in other counties.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-fl26-auto",
-      "startedAt": "2026-09-02T08:25:08.537Z",
-      "completedAt": "2026-09-02T08:27:32.529Z",
+      "id": "run-2026-09-09-fl26-auto",
+      "startedAt": "2026-09-09T08:38:50.718Z",
+      "completedAt": "2026-09-09T08:41:00.267Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
+      "sourcesChecked": 14,
       "updatesCreated": 8,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for FL-26. Sources checked: 16. LLM verifications: 17. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-09 for FL-26. Sources checked: 14. LLM verifications: 15. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:27:32.529Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:41:00.267Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
