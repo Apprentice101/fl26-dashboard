@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:41:00.267Z",
-  "exportedAt": "2026-09-09T09:18:46.671Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:08:37.538Z",
+  "exportedAt": "2026-09-16T09:50:18.813Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-fl-dos-register": {
@@ -1489,20 +1489,90 @@
         "relevanceSummary": "This county-level notice explains Florida’s requirements for requesting a vote‑by‑mail ballot, including the need to provide name, date of birth, address, and either the last four digits of a Social Security number or a Florida driver license/ID number, and highlights tools like BallotTrax, illustrating procedures that are substantially similar for FL‑26 voters in other counties.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0vau8ti",
+        "headline": "3 deadlines every Florida voter should know right now",
+        "sourceName": "News-Journal Online",
+        "url": "https://www.news-journalonline.com/story/news/politics/elections/2026/09/15/florida-general-election-voter-deadlines/91771460007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This story highlights the key Florida voter deadlines for registration, vote-by-mail requests, and ballot return. It matters to FL-26 voters because these are statewide rules that determine whether a voter can cast a ballot in time for the November general election.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-099dv3g",
+        "headline": "Vote-by-mail key dates, upcoming deadlines in Florida",
+        "sourceName": "Florida Today",
+        "url": "https://www.floridatoday.com/story/news/politics/elections/2026/09/15/florida-vote-by-mail-dates-deadlines/91771827007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This statewide deadlines roundup is relevant because it identifies the vote-by-mail mailing window and other timing rules Florida voters need to track before the general election. FL-26 voters use the same state deadlines for requesting and returning ballots.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0dojf2k",
+        "headline": "Supreme Court clears way for mail-in ballots. When you can expect yours",
+        "sourceName": "Pensacola News Journal",
+        "url": "https://www.pnj.com/story/news/politics/elections/2026/09/15/vote-by-mail-ballots-in-escambia-santa-rosa-arriving-late-september/91776237007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This article explains that Florida voters can still vote by mail for the general election and outlines the request rules, deadlines, and required information for a vote-by-mail request. Those statewide procedures apply to FL-26 voters and are especially important for anyone planning to vote absentee.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0u2udmj",
+        "headline": "On National Voter Registration Day, how to make sure you're eligible to vote in Florida",
+        "sourceName": "ClickOrlando",
+        "url": "https://www.clickorlando.com/election-2026/2026/09/15/on-national-voter-registration-day-how-to-make-sure-youre-eligible-to-vote-in-florida/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This Florida voter-registration guide is directly relevant to FL-26 voters because it explains how to register online, by mail, or in person, and notes the 29-day book-closing deadline before an election. Florida registration rules apply statewide, so this affects every voter in the district.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0fknjwc",
+        "headline": "Voter Precinct Lookup - Division of Elections - Florida",
+        "sourceName": "Florida Division of Elections",
+        "url": "https://dos.fl.gov/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup/?os=fdF&ref=app",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "This official Florida elections page is directly relevant because it lets voters check their precinct and polling place, including temporary polling location changes. FL-26 voters can use it to verify where they should vote in person.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-06ej5mz",
+        "headline": "Ridiculous: Postal Service rejects Leon mail ballot envelopes. Here's why",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/09/10/postal-service-rejects-florida-county-mail-ballots-heres-why-leon-county-trump-voting/91656140007/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This Florida election-administration story is relevant because it shows how mail-ballot envelopes can face USPS processing problems, which could affect how Florida counties package and send ballots. FL-26 voters should know this as a statewide/mail-voting administration issue that can influence ballot delivery and return timing.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0f0nsiu",
+        "headline": "Mail voting is popular in Florida, despite federal scrutiny",
+        "sourceName": "Tampa Bay Times",
+        "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/09/florida-mail-ballot-voting-elections-courts/",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "This statewide article explains Florida’s mail-voting system and notes that voters do not need an excuse to request a mail ballot. That directly affects FL-26 voters because the same statewide vote-by-mail rules govern their ballot options.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-fl26-auto",
-      "startedAt": "2026-09-09T08:38:50.718Z",
-      "completedAt": "2026-09-09T08:41:00.267Z",
+      "id": "run-2026-09-16-fl26-auto",
+      "startedAt": "2026-09-16T09:06:08.353Z",
+      "completedAt": "2026-09-16T09:08:37.538Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
-      "updatesCreated": 8,
-      "conflictsCreated": 0,
+      "sourcesChecked": 17,
+      "updatesCreated": 7,
+      "conflictsCreated": 2,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for FL-26. Sources checked: 14. LLM verifications: 15. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for FL-26. Sources checked: 17. LLM verifications: 18. 1 lastVerified bump on unchanged sources. 2 conflicts flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:41:00.267Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:08:37.538Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
