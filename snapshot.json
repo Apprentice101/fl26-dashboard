@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:08:37.538Z",
-  "exportedAt": "2026-09-16T09:50:18.813Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:08:08.680Z",
+  "exportedAt": "2026-09-23T09:36:32.519Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -1559,20 +1559,100 @@
         "relevanceSummary": "This statewide article explains Florida’s mail-voting system and notes that voters do not need an excuse to request a mail ballot. That directly affects FL-26 voters because the same statewide vote-by-mail rules govern their ballot options.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0dzyd00",
+        "headline": "Florida Democrats take (very) early lead in mail-in ballots",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/09/22/florida-vote-by-mail-ballots-deadlines/91885088007/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "The article explains who may vote by mail in Florida and how to request a ballot from the county Supervisor of Elections, including online, in-person, and mail options. These statewide procedures apply to voters in FL-26, although the article also includes political participation data.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-09c4jur",
+        "headline": "Florida begins receiving mail ballots as voting gets underway for 2026 midterm election",
+        "sourceName": "CBS News Miami",
+        "url": "https://www.cbsnews.com/miami/news/florida-mail-ballots-2026-midterm-election/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "Florida counties are beginning to receive mail ballots for the November 3 general election. The article reports that Florida's existing voting and voter-identification rules remain in effect, with domestic ballots scheduled for mailing between September 24 and October 1.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0rzare8",
+        "headline": "Miami-Dade to mail more than 200,000 ballots for November election",
+        "sourceName": "Caribbean National Weekly",
+        "url": "https://www.caribbeannationalweekly.com/posts/miami-dade-to-mail-more-than-200000-ballots-for-november-election",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "Miami-Dade County, which includes most of FL-26, is preparing to mail more than 200,000 vote-by-mail ballots. The article explains that requests must be renewed for future election cycles, ballots must be received by 7 p.m. on Election Day, and Election Day returns must go to designated elections offices rather than polling places.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0lmfm3b",
+        "headline": "Advocate emphasizes there are no major changes to state election laws this year",
+        "sourceName": "WLRN",
+        "url": "https://www.wlrn.org/government-politics/2026-09-18/advocate-emphasizes-there-are-no-major-changes-to-state-election-laws-this-year",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "A Florida voting-rights advocate says there are no major changes to Florida election procedures for 2026, including no changes to voter-ID requirements. The article also reminds voters that mail ballots must be requested from their county Supervisor of Elections.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0dz03ub",
+        "headline": "Vote-by-Mail Ballots for November 3 General Election to be Mailed Beginning September 24",
+        "sourceName": "Miami-Dade County Supervisor of Elections",
+        "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1789654924745444",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "Miami-Dade's election office announced that it will begin mailing vote-by-mail ballots for the November 3 general election on September 24. The official notice urges voters to return ballots early and emphasizes that mailed ballots must be received, not merely postmarked, by the deadline.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0winm83",
+        "headline": "3 key voter deadlines to know before Florida’s Nov. 3 general election",
+        "sourceName": "The Florida Times-Union",
+        "url": "https://www.jacksonville.com/story/news/politics/elections/2026/09/17/florida-voter-guide-register-vote-by-mail-early-voting/91790307007/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "This Florida voter guide summarizes registration, mail-ballot, and voting-period deadlines that apply to FL-26 voters. It states that mail-ballot requests go through the voter's county Supervisor of Elections and identifies September 19 as the UOCAVA mailing deadline and September 24–October 1 as the domestic mailing window.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-00cxcgf",
+        "headline": "Already registered? What Florida voters should check before Oct. 5",
+        "sourceName": "Florida Today",
+        "url": "https://www.floridatoday.com/story/news/politics/elections/2026/09/16/where-how-check-voter-registration-florida-documents-needed-change-edit-information-deadlines/91788333007/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The article directs Florida voters to verify, register, or update registration through the state's online system before the October 5 registration deadline. Registered voters can also use county Supervisor of Elections websites to access precinct and ballot information.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-08svu11",
+        "headline": "Florida mail voting continues after Supreme Court Trump ruling",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/09/16/vote-by-mail-florida-supreme-court-trump-deadlines-rules/91788337007/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The article explains that Florida mail voting continues after the Supreme Court blocked proposed federal USPS restrictions. It provides Florida-specific procedures, including the October 22 request deadline, identification information required for a request, the 7 p.m. Election Day receipt deadline, and secure drop-box options.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-fl26-auto",
-      "startedAt": "2026-09-16T09:06:08.353Z",
-      "completedAt": "2026-09-16T09:08:37.538Z",
+      "id": "run-2026-09-23-fl26-auto",
+      "startedAt": "2026-09-23T09:06:24.041Z",
+      "completedAt": "2026-09-23T09:08:08.680Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
-      "updatesCreated": 7,
+      "sourcesChecked": 16,
+      "updatesCreated": 8,
       "conflictsCreated": 2,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for FL-26. Sources checked: 17. LLM verifications: 18. 1 lastVerified bump on unchanged sources. 2 conflicts flagged for human review."
+      "summary": "Automated refresh completed 2026-09-23 for FL-26. Sources checked: 16. LLM verifications: 17. No changes detected; all sources verified unchanged. 2 conflicts flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:08:37.538Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:08:08.680Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
