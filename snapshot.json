@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:08:08.680Z",
-  "exportedAt": "2026-09-23T09:36:32.519Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:14:42.248Z",
+  "exportedAt": "2026-09-30T10:36:30.915Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -1639,20 +1639,100 @@
         "relevanceSummary": "The article explains that Florida mail voting continues after the Supreme Court blocked proposed federal USPS restrictions. It provides Florida-specific procedures, including the October 22 request deadline, identification information required for a request, the 7 p.m. Election Day receipt deadline, and secure drop-box options.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0e1yq92",
+        "headline": "Time is running out to register to vote in Florida's midterm election",
+        "sourceName": "Pensacola News Journal",
+        "url": "https://www.pnj.com/story/news/politics/elections/2026/09/29/florida-voter-registration-deadline-is-oct-5-for-midterm-election/92003926007/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "Florida voters, including those in FL-26, must register by October 5 for the November general election. The article also reports that October 22 is the deadline to request a vote-by-mail ballot and explains the mailing schedule for requested ballots.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0dv0wwu",
+        "headline": "Lee Elections Office begins sending mail ballots",
+        "sourceName": "Lehigh Acres Citizen",
+        "url": "https://www.lehighacrescitizen.com/2026/09/28/lee-elections-office-begins-sending-mail-ballots/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "Lee County began sending vote-by-mail ballots for the November general election. The article identifies October 5 as Florida’s voter-registration deadline and October 22 as the deadline to request a mailed ballot, procedures that also apply to FL-26 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0e9ncty",
+        "headline": "Nearly 1.5 million vote-by-mail ballots sent to Florida voters ahead of November election",
+        "sourceName": "CBS News Miami",
+        "url": "https://www.cbsnews.com/miami/news/florida-vote-by-mail-ballots-latest/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The statewide report says nearly 1.5 million vote-by-mail ballots had been sent to Florida voters for the November general election, according to Division of Elections figures. FL-26 voters who requested ballots can use the information to monitor delivery and plan timely return.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-00yilgp",
+        "headline": "General Election ballots are on their way",
+        "sourceName": "Indian River Guardian",
+        "url": "https://indianriverguardian.com/2026/09/25/general-election-ballots-are-on-their-way/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The county election report explains that voters requesting a Florida mail ballot must provide a Florida driver license number, Florida ID number, or the last four digits of a Social Security number. It also provides return-delivery guidance relevant to voters using vote-by-mail statewide.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0u0u2lv",
+        "headline": "Florida's voter registration deadline is almost here. How to check if you're registered",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/09/25/florida-voter-registration-deadline-approaching/91934027007/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "This statewide Florida election guide highlights the approaching registration deadline and explains when domestic and overseas vote-by-mail ballots are sent. The procedures apply directly to eligible FL-26 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-01tr1jq",
+        "headline": "Vote-by-mail (absentee) ballots for the November 3 General Election ...",
+        "sourceName": "Sarasota County Supervisor of Elections",
+        "url": "https://www.sarasotavotes.gov/m/newsflash/Home/Detail/57",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "Sarasota County’s election office announced that voters may request November vote-by-mail ballots online, in person, or by phone, with an October 22 deadline. This county-level procedure is relevant as an example of Florida’s current county election administration and statewide statutory deadlines.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-04ja3l5",
+        "headline": "First mailings of vote-by-mail ballots to domestic voters for Nov. 3 general election start to go out",
+        "sourceName": "WGCU",
+        "url": "https://www.wgcu.org/elections/2026-09-24/first-mailings-of-vote-by-mail-ballots-to-domestic-voters-for-nov-3-general-election-start-to-go-out",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "Florida counties began mailing domestic voters’ ballots between September 24 and October 1. The article says voters must request a ballot by October 22 and that completed ballots must physically reach the county Supervisor of Elections by 7 p.m. on November 3.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-03h9lsn",
+        "headline": "Florida vote-by-mail ballots going out. Are you a registered voter?",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/09/24/florida-election-deadlines-how-request-vote-by-mail-ballot-check-voter-status/91916391007/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "The statewide guide explains how Florida voters can verify registration and request a vote-by-mail ballot through their county Supervisor of Elections. It states that vote-by-mail requests must be made by 5 p.m. on October 22 for the general election.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-fl26-auto",
-      "startedAt": "2026-09-23T09:06:24.041Z",
-      "completedAt": "2026-09-23T09:08:08.680Z",
+      "id": "run-2026-09-30-fl26-auto",
+      "startedAt": "2026-09-30T10:13:12.700Z",
+      "completedAt": "2026-09-30T10:14:42.248Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
+      "sourcesChecked": 15,
       "updatesCreated": 8,
-      "conflictsCreated": 2,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for FL-26. Sources checked: 16. LLM verifications: 17. No changes detected; all sources verified unchanged. 2 conflicts flagged for human review."
+      "summary": "Automated refresh completed 2026-09-30 for FL-26. Sources checked: 15. LLM verifications: 16. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:08:08.680Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:14:42.248Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
