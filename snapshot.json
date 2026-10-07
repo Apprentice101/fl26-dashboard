@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:14:42.248Z",
-  "exportedAt": "2026-09-30T10:36:30.915Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:50:10.955Z",
+  "exportedAt": "2026-10-07T11:11:50.241Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -199,7 +199,7 @@
         "sourceType": "news",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-wgcu": {
@@ -1719,20 +1719,90 @@
         "relevanceSummary": "The statewide guide explains how Florida voters can verify registration and request a vote-by-mail ballot through their county Supervisor of Elections. It states that vote-by-mail requests must be made by 5 p.m. on October 22 for the general election.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-04t20oc",
+        "headline": "Nearly 150,000 Floridians have voted as registration deadline hits",
+        "sourceName": "Pensacola News Journal",
+        "url": "https://www.pnj.com/story/news/politics/elections/2026/10/05/voter-registration-deadline-florida/92108312007/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The article reports Florida’s Oct. 5 registration deadline and confirms that voters may request vote-by-mail ballots until Oct. 22. It also describes the statewide schedule for supervisors of elections to mail ballots to voters who had already requested them.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0iwqsie",
+        "headline": "Monday is the last day you can register to vote for November's midterm election. Here's what you need to know",
+        "sourceName": "News4JAX",
+        "url": "https://www.news4jax.com/vote-2026/2026/10/05/monday-is-the-last-day-you-can-register-to-vote-for-novembers-midterm-election-heres-what-you-need-to-know/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The article reports Florida’s Oct. 5 registration deadline and Oct. 22 deadline for requesting a vote-by-mail ballot. It also lists accepted photo-identification documents for in-person voting, including a Florida driver license, passport, military ID, student ID, and several government or institutional IDs.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0ey71ww",
+        "headline": "How to check your Florida voter status and register online or in person before the deadline",
+        "sourceName": "CBS News Miami",
+        "url": "https://www.cbsnews.com/miami/news/florida-check-voter-status-register-online-in-person/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The article explains Florida’s Oct. 5 general-election registration deadline and the identification information needed for online registration, including the last four Social Security digits and Florida driver-license or ID-card details. These statewide registration procedures apply directly to FL-26 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-060b6aq",
+        "headline": "Florida voter registration deadline is Mon. Oct. 5: How to register and check your status",
+        "sourceName": "CBS12",
+        "url": "https://cbs12.com/news/local/florida-voter-registration-deadline-is-oct-5-how-to-register-and-check-your-status-election-day-vote-ballot-early-voting-november-general-oct-4-2026",
+        "publishedAt": "2026-10-04",
+        "relevanceSummary": "Florida voters can register, update their records, verify addresses, and find precinct information through RegisterToVoteFlorida.gov or their county elections office. The article also identifies Oct. 22 as the deadline to request a vote-by-mail ballot and describes Florida’s mail, early, and Election Day voting options.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-00t0px0",
+        "headline": "Florida voters already casting their midterm election ballots. Guide to voting-by-mail.",
+        "sourceName": "South Florida Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/10/03/florida-voters-already-casting-their-midterm-election-ballots-guide-to-voting-by-mail/",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "Florida voters, including those in FL-26, can vote by mail, vote early from Oct. 19 through Nov. 1 in South Florida, or vote at neighborhood polling places on Nov. 3. The article also explains that voters can request a mail ballot and check registration, ballot status, and polling locations.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0y50tre",
+        "headline": "What do I need to vote in Florida? 2026 voter guide",
+        "sourceName": "NBC 6 South Florida",
+        "url": "https://www.nbcmiami.com/news/national-international/what-do-i-need-to-vote-in-florida-what-to-know-before-the-election/3865985/?amp=1",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The statewide voter guide lists Oct. 22 as the vote-by-mail request deadline and Oct. 19 as the start of early voting in Miami-Dade and Monroe, both counties relevant to FL-26. It also explains Florida’s in-person voter-ID requirement: a current, valid photo ID with a signature, or an additional signature-bearing ID when the photo ID lacks one.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-092tsqv",
+        "headline": "Florida Election 2026: Key deadlines, early voting locations",
+        "sourceName": "WPTV",
+        "url": "https://www.wptv.com/news/political/elections-local/florida-election-2026-voter-registration-vote-by-mail-and-early-voting-deadlines-you-need-to-know",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article summarizes Florida registration, vote-by-mail, early-voting, and ballot-return procedures. Its South Florida information includes Palm Beach County, which borders and shares regional election logistics with FL-26, including early voting from Oct. 19 through Nov. 1 and secure ballot intake options.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-fl26-auto",
-      "startedAt": "2026-09-30T10:13:12.700Z",
-      "completedAt": "2026-09-30T10:14:42.248Z",
+      "id": "run-2026-10-07-fl26-auto",
+      "startedAt": "2026-10-07T10:48:42.616Z",
+      "completedAt": "2026-10-07T10:50:10.955Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 8,
+      "sourcesChecked": 17,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for FL-26. Sources checked: 15. LLM verifications: 16. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-10-07 for FL-26. Sources checked: 17. LLM verifications: 18. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:14:42.248Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:50:10.955Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
