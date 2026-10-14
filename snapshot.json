@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:50:10.955Z",
-  "exportedAt": "2026-10-07T11:11:50.241Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:14:50.301Z",
+  "exportedAt": "2026-10-14T09:31:23.891Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -1789,20 +1789,100 @@
         "relevanceSummary": "The article summarizes Florida registration, vote-by-mail, early-voting, and ballot-return procedures. Its South Florida information includes Palm Beach County, which borders and shares regional election logistics with FL-26, including early voting from Oct. 19 through Nov. 1 and secure ballot intake options.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0jkrnf1",
+        "headline": "Early voting starts soon in these South Florida counties. Dates, locations",
+        "sourceName": "Reuters",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETN92167328007?channel=xsp076",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Early voting begins Oct. 19 in Miami-Dade, Broward, and Monroe counties; the report also explains Florida's in-person photo-ID requirement and the need for a second ID if the first lacks a signature.[9]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0q1lfzh",
+        "headline": "Want to vote by mail? Deadline to request Florida ballot coming soon",
+        "sourceName": "Reuters",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETFL92228370007?channel=qqn076",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The statewide report reiterates that Florida mail-ballot requests must reach the county Supervisor of Elections by 5 p.m. Oct. 22 and completed ballots must be received by 7 p.m. Nov. 3.[5]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0xa56st",
+        "headline": "Is it too late to request a mail-in ballot in Florida?",
+        "sourceName": "WTSP",
+        "url": "https://www.wtsp.com/article/news/politics/elections/voting/request-mail-in-ballot-deadline-florida-2026-election/67-68d79f5e-28af-420f-b2d9-0e8a23ecace4",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Florida voters, including those in FL-26, can request a vote-by-mail ballot through their county Supervisor of Elections until 5 p.m. Oct. 22; ballots must arrive by 7 p.m. Election Day, and secure drop boxes are available at supervisors' offices.[2]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-04eqhz7",
+        "headline": "Early voting begins Oct. 19 at 27 Orange County locations, including two in Apopka",
+        "sourceName": "The Apopka Chief",
+        "url": "https://theapopkachief.com/early-voting-begins-oct-19-at-27-orange-county-locations-including-two-in-apopka/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "This Florida county-level election-administration article details early-voting locations and confirms that voters need valid photo and signature identification, with provisional ballots available when acceptable ID is unavailable.[10]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0tqlk3u",
+        "headline": "Where to vote in Florida — 2026 polling place, early voting ...",
+        "sourceName": "Decode the Vote",
+        "url": "https://www.decodethevote.com/election-2026/florida/where-to-vote",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The statewide resource identifies Oct. 24–31 as Florida's mandatory early-voting period, directs voters to county election offices for locations and hours, and explains photo-ID and provisional-ballot procedures.[7]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0xfbyut",
+        "headline": "How to vote by mail in Florida for the 2026 midterm elections and who is eligible",
+        "sourceName": "CBS News Miami",
+        "url": "https://www.cbsnews.com/miami/news/florida-absentee-voting-vote-by-mail-2026-midterm-elections/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The statewide guide explains how Florida voters request mail ballots, the identification information required for a request, the Oct. 22 deadline, emergency-ballot rules after early voting begins, and authorized return locations.[4]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0rhbpoa",
+        "headline": "WUSF's Voter Guide helps you compare the candidates for the 2026 elections",
+        "sourceName": "WUSF",
+        "url": "https://www.wusf.org/politics-issues/2026-10-09/wusf-voter-guide-compare-candidates-2026-florida-elections",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "This Florida election guide applies statewide, including FL-26, and lists the Oct. 22 deadline to request a vote-by-mail ballot, the Oct. 24–31 mandatory early-voting period, the Nov. 3 return deadline, and accepted photo-and-signature identification for in-person voting.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0ktuuq3",
+        "headline": "Miami-Dade: the deadline to request a mail-in ballot is October 22, and this is how you can check your ballot",
+        "sourceName": "CiberCuba",
+        "url": "https://en.cibercuba.com/noticias/2026-10-08-u1-e13-s27061-nid342273-miami-dade-22-octubre-vence-plazo-pedir-voto-correo-asi",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "Miami-Dade is part of FL-26, and this county-specific article provides the Oct. 22 request deadline, Nov. 3 return deadline, request methods, and designated ballot-return locations; it also notes that polling places cannot accept mail ballots on Election Day.[6]",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-fl26-auto",
-      "startedAt": "2026-10-07T10:48:42.616Z",
-      "completedAt": "2026-10-07T10:50:10.955Z",
+      "id": "run-2026-10-14-fl26-auto",
+      "startedAt": "2026-10-14T09:13:44.723Z",
+      "completedAt": "2026-10-14T09:14:50.301Z",
       "triggerType": "scheduled",
       "sourcesChecked": 17,
-      "updatesCreated": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for FL-26. Sources checked: 17. LLM verifications: 18. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for FL-26. Sources checked: 17. LLM verifications: 18. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:50:10.955Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:14:50.301Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
