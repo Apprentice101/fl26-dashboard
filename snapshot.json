@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:14:50.301Z",
-  "exportedAt": "2026-10-14T09:31:23.891Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:05:44.246Z",
+  "exportedAt": "2026-10-21T09:21:17.312Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-fl-dos-register": {
@@ -1869,20 +1869,100 @@
         "relevanceSummary": "Miami-Dade is part of FL-26, and this county-specific article provides the Oct. 22 request deadline, Nov. 3 return deadline, request methods, and designated ballot-return locations; it also notes that polling places cannot accept mail ballots on Election Day.[6]",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-02cbrhe",
+        "headline": "Early Voting Guide: Here's where to go and what to bring",
+        "sourceName": "WUFT",
+        "url": "https://www.wuft.org/text/politics/2026-10-20/early-voting-guide-heres-where-to-go-and-what-to-bring",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The Florida early-voting guide states that voters must present photo and signature identification before receiving an in-person ballot. This statewide voter-ID requirement applies in FL-26.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0xwbfqt",
+        "headline": "Polling sites open as early voting begins",
+        "sourceName": "Cape Coral Breeze",
+        "url": "https://www.capecoralbreeze.com/news/breaking-news/2026/10/19/polling-sites-open-as-early-voting-begins/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The Lee County article lists early-voting sites and explains Florida’s in-person requirement for valid, unexpired photo and signature identification. It also provides the October 22 mail-ballot request deadline and Election Day return deadline; the county is outside FL-26 but the statewide ID rules apply directly.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-00t7lm8",
+        "headline": "Early voting begins in Palm Beach County, Treasure Coast ahead of general election",
+        "sourceName": "CBS12",
+        "url": "https://cbs12.com/news/local/early-voting-begins-in-palm-beach-county-treasure-coast-ahead-of-2026-general-electionsearly-voting-florida-2026-early-voting-palm-beach-county-early-voting-dates-and-hours-early-voting-locations-nea",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The article explains that voters may use any designated early-voting location in their county, should bring valid photo and signature identification, and must request mailed ballots by October 22 at 5 p.m. It also states that completed mail ballots must arrive by 7 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0uelsep",
+        "headline": "Early voting kicks off this week in Florida. Where, when you can vote",
+        "sourceName": "The Florida Times-Union",
+        "url": "https://www.jacksonville.com/story/news/politics/elections/2026/10/19/early-voting-locations-hours-florida-2026/92251273007/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The statewide early-voting article highlights October 22 at 5 p.m. as the deadline to request a vote-by-mail ballot and provides timing information for Florida’s early-voting period. The deadline applies directly to FL-26 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-071nhq6",
+        "headline": "Your 2026 guide to voting early, by mail, and on Election Day in Florida. Ensure your ballot is counted.",
+        "sourceName": "South Florida Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/10/19/your-2026-guide-to-voting-early-by-mail-and-on-election-day-in-florida-ensure-your-ballot-is-counted/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "This statewide Florida voter guide reports that voters must file a request with their county Supervisor of Elections by 5 p.m. on October 22 to receive a mail ballot for the upcoming election. The statewide procedure applies to FL-26 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-01kynrr",
+        "headline": "Early voting is now open in South Florida. Check the rules, dates, locations",
+        "sourceName": "Miami Herald",
+        "url": "https://www.miamiherald.com/news/politics-government/election/voter-guide/article317620952.html",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The South Florida voting guide is directly relevant to FL-26 voters and explains that completed mail ballots can be returned at early-voting locations or to the county Supervisor of Elections office. Ballots returned on Election Day must be delivered directly to that office before 7 p.m.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-09yzkmn",
+        "headline": "Secretary of State Cord Byrd Reminds Floridians of Early Voting Options",
+        "sourceName": "Florida Department of State",
+        "url": "https://dos.fl.gov/communications/press-releases/2026/secretary-of-state-cord-byrd-reminds-floridians-of-early-voting-options-1",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "Florida voters, including those in FL-26, can vote early from October 24–31, with some counties offering additional days. The deadline to request that a vote-by-mail ballot be mailed is 5 p.m. on October 22.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-07q27t5",
+        "headline": "A Tallahassee, Florida voter guide to 2026 general election",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/10/16/a-tallahassee-florida-voter-guide-to-2026-general-election/92267028007/",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The guide explains Florida’s October 22 deadline to request a mailed vote-by-mail ballot and describes the use of Secure Ballot Intake Stations at early-voting sites and election offices. These statewide procedures are relevant to FL-26 voters, although the listed local locations are in Leon County.",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-fl26-auto",
-      "startedAt": "2026-10-14T09:13:44.723Z",
-      "completedAt": "2026-10-14T09:14:50.301Z",
+      "id": "run-2026-10-21-fl26-auto",
+      "startedAt": "2026-10-21T09:04:42.054Z",
+      "completedAt": "2026-10-21T09:05:44.246Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
+      "sourcesChecked": 15,
       "updatesCreated": 8,
-      "conflictsCreated": 0,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for FL-26. Sources checked: 17. LLM verifications: 18. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-10-21 for FL-26. Sources checked: 15. LLM verifications: 16. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:14:50.301Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:05:44.246Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
