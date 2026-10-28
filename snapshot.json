@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:05:44.246Z",
-  "exportedAt": "2026-10-21T09:21:17.312Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:17:23.411Z",
+  "exportedAt": "2026-10-28T10:23:07.613Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "high"
       },
       "src-fl-dos-register": {
@@ -1949,20 +1949,100 @@
         "relevanceSummary": "The guide explains Florida’s October 22 deadline to request a mailed vote-by-mail ballot and describes the use of Secure Ballot Intake Stations at early-voting sites and election offices. These statewide procedures are relevant to FL-26 voters, although the listed local locations are in Leon County.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-02i8j6p",
+        "headline": "Florida voting breakdown has Republicans, Democrats in tight race",
+        "sourceName": "Naples Daily News",
+        "url": "https://www.naplesnews.com/story/news/politics/elections/2026/10/27/florida-voter-turnout-breakdown-by-party-republican-democrat-mail-ballotes-voting-early/92440731007/",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "The article summarizes Florida’s acceptable in-person photo IDs and the available voting methods, including early voting and returning vote-by-mail ballots at secure intake stations. These statewide procedures apply to FL-26 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0eitqe7",
+        "headline": "Too late to vote by mail in Florida? How to drop it off, get it counted",
+        "sourceName": "The Daytona Beach News-Journal",
+        "url": "https://www.news-journalonline.com/story/news/politics/elections/2026/10/27/usps-mail-florida-ballot-deadline/92456959007/",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "Florida voters must return domestic vote-by-mail ballots by 7 p.m. on Election Day; postmarks do not extend the deadline. The article explains using secure ballot intake stations and notes that neighborhood polling places cannot accept vote-by-mail ballots on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0czoqwg",
+        "headline": "What you need to bring to polls if you're voting in Florida",
+        "sourceName": "Naples Daily News",
+        "url": "https://www.naplesnews.com/story/news/politics/elections/2026/10/26/what-bring-to-poll-vote-florida/92440416007/",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "The article lists Florida’s accepted current photo IDs with signatures, including driver licenses, passports, student IDs, public-assistance IDs, and government employee IDs. The statewide voter-ID requirements apply directly to voters in FL-26.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-01zw9e0",
+        "headline": "Too late to mail: How to get your Florida ballot in on time",
+        "sourceName": "South Florida Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/10/26/if-youre-voting-by-mail-in-floridas-midterm-election-its-too-late-to-drop-it-in-the-mail-heres-what-to-do/",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "Florida vote-by-mail ballots must reach the county elections headquarters by 7 p.m. on Election Day, and postmarks do not count. The article explains that voters returning ballots at early-voting sites must use the return envelope and complete its signature and date fields.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0wi9hbt",
+        "headline": "Secretary of State Cord Byrd Provides Election Readiness Update for the November 3rd General Election",
+        "sourceName": "Florida Department of State",
+        "url": "https://dos.fl.gov/communications/press-releases/2026/secretary-of-state-cord-byrd-provides-election-readiness-update-for-the-november-3rd-general-election",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "Florida’s Secretary of State states that required early voting runs October 24–31, domestic vote-by-mail ballots must arrive by 7 p.m. on Election Day, polls operate from 7 a.m. to 7 p.m., and voters must use assigned polling places and present valid photo ID.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0dgnds9",
+        "headline": "Missed Florida's mail-ballot deadline? Here are your options",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/10/23/florida-early-voting-dates-requirements/92393784007/",
+        "publishedAt": "2026-10-23",
+        "relevanceSummary": "Florida voters who missed the vote-by-mail request deadline can still vote in person during early voting or on Election Day. The article explains accepted photo ID and that voters without ID may cast a provisional ballot subject to canvassing-board review.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0fifzc9",
+        "headline": "Florida vote-by-mail request: Oct. 22 is the last day to request a ballot",
+        "sourceName": "WTSP",
+        "url": "https://www.wtsp.com/article/news/politics/elections/voting/florida-vote-by-mail-in-ballot-request-deadline-2026/67-4ba4a536-a927-4ae4-b590-ebc7814f7e4f",
+        "publishedAt": "2026-10-22",
+        "relevanceSummary": "The statewide vote-by-mail request deadline for Florida’s November 3 general election was 5 p.m. on October 22. The article also states that completed ballots must be received by 7 p.m. on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl26-0epnodw",
+        "headline": "Voting by mail in Florida? Today is last day to ask for ballot",
+        "sourceName": "Fort Myers News-Press",
+        "url": "https://www.news-press.com/story/news/politics/elections/2026/10/22/vote-by-mail-ballot-florida-deadline-request-thursday/92360912007/",
+        "publishedAt": "2026-10-22",
+        "relevanceSummary": "Florida’s statewide deadline to request a vote-by-mail ballot for the November 3 general election was 5 p.m. on October 22. The article describes requesting a ballot through the county Supervisor of Elections and the identifying information required.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-fl26-auto",
-      "startedAt": "2026-10-21T09:04:42.054Z",
-      "completedAt": "2026-10-21T09:05:44.246Z",
+      "id": "run-2026-10-28-fl26-auto",
+      "startedAt": "2026-10-28T10:16:10.621Z",
+      "completedAt": "2026-10-28T10:17:23.411Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
+      "sourcesChecked": 17,
       "updatesCreated": 8,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for FL-26. Sources checked: 15. LLM verifications: 16. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-10-28 for FL-26. Sources checked: 17. LLM verifications: 18. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:05:44.246Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:17:23.411Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
