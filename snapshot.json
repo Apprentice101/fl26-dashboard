@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-18",
-  "updatedAt": "2026-11-18T12:31:18.142Z",
-  "exportedAt": "2026-11-18T12:40:12.457Z",
+  "dataAsOf": "2026-11-25",
+  "updatedAt": "2026-11-25T13:45:31.639Z",
+  "exportedAt": "2026-11-25T13:48:48.016Z",
   "districtCode": "26",
   "data": {
     "DISTRICT": {
@@ -122,7 +122,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-11-18",
+        "lastVerified": "2026-11-25",
         "confidence": "high",
         "notes": "Redesigned site launched May 21, 2026 (votemiamidade.gov). Primary SOE for the largest portion of FL-26 electorate (Hialeah, Doral, Miami Lakes, Miami Springs)."
       },
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-12",
-        "lastVerified": "2026-11-18",
+        "lastVerified": "2026-11-25",
         "confidence": "high"
       },
       "src-fl-senate-hb1d": {
@@ -2032,17 +2032,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-18-fl26-auto",
-      "startedAt": "2026-11-18T12:31:09.556Z",
-      "completedAt": "2026-11-18T12:31:18.142Z",
+      "id": "run-2026-11-25-fl26-auto",
+      "startedAt": "2026-11-25T13:45:23.598Z",
+      "completedAt": "2026-11-25T13:45:31.639Z",
       "triggerType": "scheduled",
       "sourcesChecked": 30,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-18 for FL-26. Sources checked: 30. LLM verifications: 28. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-25 for FL-26. Sources checked: 30. LLM verifications: 27. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-25T12:31:18.142Z",
+    "NEXT_REFRESH_AT": "2026-12-02T13:45:31.639Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl26-2026-w24",
       "periodStart": "2026-06-08",
